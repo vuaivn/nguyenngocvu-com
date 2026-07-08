@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Suc manh cua chu Chua trong tu duy phat trien">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f2ece2"/><stop offset="1" stop-color="#eaddc6"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+
+  <text x="400" y="200" text-anchor="middle" font-family="sans-serif" font-size="54" font-weight="700" fill="#c98a52">Chưa</text>
+  <text x="400" y="270" text-anchor="middle" font-family="sans-serif" font-size="26" fill="#7a4a22">"Tôi chưa làm được"</text>
+  <path d="M300 310 q100 40 200 0" fill="none" stroke="#b8763e" stroke-width="5" stroke-linecap="round"/>
+  <path d="M480 300 l25 8 l-18 20 Z" fill="#b8763e"/>
+</svg>

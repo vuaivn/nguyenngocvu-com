@@ -1,11 +1,12 @@
 ---
 title: "Quản lý thời gian hiệu quả: làm ít hơn, đạt nhiều hơn"
-description: "Bí quyết quản lý thời gian không phải là làm nhiều việc hơn, mà là làm đúng việc quan trọng nhất. Hướng dẫn ma trận ưu tiên Eisenhower và 3 thói quen giúp bạn tập trung sâu."
+description: "Bí quyết quản lý thời gian không phải làm nhiều hơn, mà là làm đúng việc quan trọng nhất. Ma trận Eisenhower và 3 thói quen giúp tập trung sâu."
 pubDate: 2026-06-26
 updatedDate: 2026-07-08
 category: "phat-trien-ban-than"
 tags: ["quản lý thời gian", "năng suất", "tập trung", "ưu tiên"]
-heroAlt: "Biểu đồ các bậc thang tăng dần với mũi tên đi lên, biểu tượng cho hiệu quả và tăng trưởng"
+heroImage: "/images/posts/hero-thoi-gian.svg"
+heroAlt: "Đồng hồ cạnh ma trận ưu tiên bốn ô, biểu tượng cho quản lý thời gian hiệu quả"
 faq:
   - q: "Làm sao để quản lý thời gian hiệu quả?"
     a: "Cốt lõi không nằm ở việc làm nhiều hơn, mà ở việc chọn đúng việc quan trọng nhất để làm. Hãy dùng ma trận ưu tiên để phân loại công việc, chọn 3 việc quan trọng nhất mỗi ngày, làm việc theo khối tập trung và tắt các yếu tố gây xao nhãng."
@@ -33,6 +34,8 @@ Thời gian trôi đều đặn dù bạn làm gì — bạn không thể "quả
 - **Không quan trọng & Không gấp:** loại bỏ (lướt mạng vô định).
 
 Sai lầm của đa số là dành cả ngày cho ô "Gấp" mà quên ô "Quan trọng & Không gấp" — nơi thật sự quyết định tương lai.
+
+![Ma trận ưu tiên Eisenhower phân loại công việc theo Quan trọng và Gấp](/images/posts/in-matrix.svg)
 
 ## Ba thói quen giúp tập trung sâu
 

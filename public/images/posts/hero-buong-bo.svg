@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 Minh hoa buong bo — ban tay mo tha canh chim 630" role="img" aria-label="">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7ecd9"/><stop offset="1" stop-color="#e9d3ad"/></linearGradient></defs>
+  <rect width="Minh hoa buong bo — ban tay mo tha canh chim" height="630" fill="url(#bg)"/>
+
+  <path d="M470 470 q-40 -30 -30 -90 q30 20 60 10 q-10 40 20 70 q-30 20 -50 10 Z" fill="#7a4a22" opacity="0.85"/>
+  <path d="M430 380 q60 -20 130 10" fill="none" stroke="#7a4a22" stroke-width="10" stroke-linecap="round" opacity="0.85"/>
+  <g fill="#b8763e" opacity="0.9">
+    <path d="M700 250 q40 -30 90 -20 q-30 30 -90 20 Z"/>
+    <path d="M760 320 q50 -20 100 0 q-40 30 -100 0 Z"/>
+    <path d="M820 200 q35 -25 80 -15 q-28 28 -80 15 Z"/>
+  </g>
+  <circle cx="640" cy="330" r="10" fill="#c98a52"/>
+  <circle cx="700" cy="290" r="7" fill="#c98a52" opacity="0.8"/>
+</svg>

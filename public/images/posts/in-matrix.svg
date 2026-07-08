@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Ma tran uu tien Eisenhower">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f2ece2"/><stop offset="1" stop-color="#eaddc6"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+
+  <g font-family="sans-serif" font-size="18" fill="#7a4a22" text-anchor="middle">
+    <rect x="200" y="120" width="180" height="110" fill="#b8763e" opacity="0.85"/><text x="290" y="180" fill="#faf7f2">Quan trọng + Gấp</text>
+    <rect x="390" y="120" width="180" height="110" fill="#d99a48" opacity="0.8"/><text x="480" y="175" fill="#7a4a22">Quan trọng</text><text x="480" y="197" fill="#7a4a22">Không gấp</text>
+    <rect x="200" y="240" width="180" height="110" fill="#c98a52" opacity="0.7"/><text x="290" y="300" fill="#faf7f2">Gấp, ít quan trọng</text>
+    <rect x="390" y="240" width="180" height="110" fill="#f2ece2" stroke="#c98a52"/><text x="480" y="300" fill="#7a4a22">Loại bỏ</text>
+  </g>
+</svg>

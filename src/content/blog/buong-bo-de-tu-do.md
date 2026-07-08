@@ -1,11 +1,12 @@
 ---
 title: "Buông bỏ để được tự do: hiểu đúng về sự buông trong đạo Phật"
-description: "Buông bỏ không phải là từ bỏ hay trốn tránh, mà là thái độ không dính mắc bên trong. Bài viết giải thích buông bỏ thật sự là gì và cách thực hành để sống nhẹ nhàng, tự do hơn."
+description: "Buông bỏ không phải từ bỏ hay trốn tránh, mà là thái độ không dính mắc bên trong. Hiểu buông bỏ thật sự là gì và cách thực hành để sống tự do hơn."
 pubDate: 2026-06-24
 updatedDate: 2026-07-08
 category: "phat-phap"
 tags: ["buông bỏ", "tự do", "vô thường", "dính mắc"]
-heroAlt: "Hình người ngồi thiền an nhiên bên hoa sen, biểu tượng của sự buông bỏ và tự do nội tâm"
+heroImage: "/images/posts/hero-buong-bo.svg"
+heroAlt: "Bàn tay mở thả cánh chim bay, biểu tượng của sự buông bỏ và tự do nội tâm"
 faq:
   - q: "Buông bỏ trong đạo Phật có nghĩa là từ bỏ mọi thứ không?"
     a: "Không. Buông bỏ không phải là vứt hết tài sản hay trốn khỏi cuộc đời. Đó là thái độ bên trong: vẫn sống, vẫn làm, vẫn sở hữu, nhưng không để những thứ đó điều khiển và trói buộc mình. Buông bỏ là buông sự dính mắc, không phải buông trách nhiệm."
@@ -34,6 +35,8 @@ Hãy thử để ý: mỗi lần bạn thấy căng thẳng, phía sau thường
 - Vẫn nỗ lực hết mình, nhưng không dính mắc vào kết quả.
 
 Người buông bỏ giỏi không phải người có ít, mà là người **giữ mọi thứ trong lòng bàn tay mở**, sẵn sàng nắm và sẵn sàng thả.
+
+![Hoa sen — biểu tượng của sự buông bỏ và thanh tịnh](/images/posts/in-lotus.svg)
 
 ## Vô thường là món quà, không phải nỗi buồn
 

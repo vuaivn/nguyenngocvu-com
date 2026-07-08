@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 Minh hoa chanh niem — hoi tho va vong tron thien 630" role="img" aria-label="">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7ecd9"/><stop offset="1" stop-color="#e9d3ad"/></linearGradient></defs>
+  <rect width="Minh hoa chanh niem — hoi tho va vong tron thien" height="630" fill="url(#bg)"/>
+
+  <circle cx="600" cy="315" r="180" fill="none" stroke="#d99a48" stroke-width="3" opacity="0.6"/>
+  <circle cx="600" cy="315" r="120" fill="none" stroke="#b8763e" stroke-width="3" opacity="0.5"/>
+  <circle cx="600" cy="315" r="60" fill="#b8763e" opacity="0.85"/>
+  <circle cx="600" cy="315" r="24" fill="#faf7f2"/>
+  <path d="M180 470 Q300 420 420 470 T660 470 T900 470 T1140 470" fill="none" stroke="#c98a52" stroke-width="4" opacity="0.5"/>
+  <path d="M180 150 Q360 110 540 150 T900 150 T1140 150" fill="none" stroke="#c98a52" stroke-width="4" opacity="0.4"/>
+</svg>

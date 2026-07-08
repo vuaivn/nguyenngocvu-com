@@ -1,11 +1,12 @@
 ---
-title: "AI Agent là gì? Giải thích dễ hiểu và vì sao nó thay đổi cách ta làm việc"
-description: "AI Agent là hệ thống AI có khả năng tự lập kế hoạch, dùng công cụ và hoàn thành mục tiêu thay bạn — khác hẳn chatbot chỉ trả lời. Tìm hiểu cách AI Agent hoạt động và ứng dụng thực tế."
+title: "AI Agent là gì? Giải thích dễ hiểu cho người mới"
+description: "AI Agent là hệ thống AI biết tự lập kế hoạch, dùng công cụ và hoàn thành mục tiêu thay bạn — khác hẳn chatbot. Tìm hiểu cách hoạt động và ứng dụng."
 pubDate: 2026-07-05
 updatedDate: 2026-07-08
 category: "cong-nghe"
 tags: ["AI", "AI Agent", "tự động hóa", "công nghệ"]
-heroAlt: "Sơ đồ mạng nơ-ron với các nút kết nối, biểu tượng cho AI Agent và trí tuệ nhân tạo"
+heroImage: "/images/posts/hero-ai-agent.svg"
+heroAlt: "Mạng nơ-ron kết nối tới một robot trung tâm, biểu tượng cho AI Agent tự hành động"
 faq:
   - q: "AI Agent là gì?"
     a: "AI Agent là một hệ thống trí tuệ nhân tạo có khả năng tự lập kế hoạch, sử dụng công cụ (duyệt web, chạy code, gọi API) và thực hiện các bước cần thiết để hoàn thành một mục tiêu được giao, thay vì chỉ trả lời một câu hỏi đơn lẻ như chatbot thông thường."
@@ -38,6 +39,8 @@ Hầu hết AI Agent vận hành theo một vòng lặp bốn bước:
 4. **Tự đánh giá** — kiểm tra kết quả, nếu chưa đạt thì điều chỉnh và lặp lại.
 
 Chính vòng lặp "lập kế hoạch → hành động → đánh giá" này khiến agent xử lý được những việc phức tạp, nhiều bước mà một câu trả lời đơn lẻ không làm nổi.
+
+![Vòng lặp hoạt động của AI Agent: kế hoạch, hành động, đánh giá, điều chỉnh](/images/posts/in-loop.svg)
 
 ## Các thành phần chính của một AI Agent
 

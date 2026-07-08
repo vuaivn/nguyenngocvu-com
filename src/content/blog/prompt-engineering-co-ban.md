@@ -1,11 +1,12 @@
 ---
 title: "Prompt Engineering cơ bản: 4 nguyên tắc giúp AI trả lời đúng ý"
-description: "Cách bạn đặt câu hỏi quyết định chất lượng câu trả lời từ AI. Hướng dẫn 4 nguyên tắc prompt engineering nền tảng kèm ví dụ cụ thể, dành cho người mới dùng ChatGPT, Claude, Gemini."
+description: "Cách bạn đặt câu hỏi quyết định chất lượng câu trả lời từ AI. 4 nguyên tắc prompt engineering nền tảng kèm ví dụ cụ thể cho người mới."
 pubDate: 2026-06-28
 updatedDate: 2026-07-08
 category: "cong-nghe"
 tags: ["AI", "prompt engineering", "ChatGPT", "công nghệ"]
-heroAlt: "Sơ đồ mạng nơ-ron kết nối, biểu tượng cho việc giao tiếp với mô hình AI qua prompt"
+heroImage: "/images/posts/hero-prompt.svg"
+heroAlt: "Khung chat với con trỏ dòng lệnh, biểu tượng cho việc giao tiếp với mô hình AI qua prompt"
 faq:
   - q: "Prompt engineering là gì?"
     a: "Prompt engineering là kỹ năng thiết kế câu lệnh (prompt) sao cho mô hình AI hiểu đúng ý và trả về kết quả chất lượng. Nó bao gồm cách diễn đạt rõ ràng, cung cấp ngữ cảnh, ví dụ và định dạng đầu ra mong muốn."
@@ -47,6 +48,8 @@ Prompt engineering là kỹ năng thiết kế câu lệnh để AI hiểu đún
 ### 4. Yêu cầu suy nghĩ từng bước
 
 Với bài toán phức tạp, thêm "hãy suy nghĩ từng bước" thường cho kết quả chính xác hơn nhiều, vì nó buộc AI lập luận có trình tự thay vì đoán nhanh.
+
+![Bốn nguyên tắc prompt engineering: rõ ràng, vai trò, ví dụ, từng bước](/images/posts/in-steps4.svg)
 
 ## Những mẹo nhỏ nhưng hiệu quả
 

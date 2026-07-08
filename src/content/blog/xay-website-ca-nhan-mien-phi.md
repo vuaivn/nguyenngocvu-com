@@ -1,11 +1,12 @@
 ---
-title: "Xây website cá nhân miễn phí với Astro và Cloudflare Pages (2026)"
-description: "Hướng dẫn tự tạo website cá nhân nhanh, đẹp, chuẩn SEO mà không tốn tiền hosting. Kết hợp Astro và Cloudflare Pages với quy trình 5 bước và mẹo cho người mới bắt đầu."
+title: "Xây website cá nhân miễn phí với Astro & Cloudflare"
+description: "Tự tạo website cá nhân nhanh, đẹp, chuẩn SEO mà không tốn tiền hosting với Astro và Cloudflare Pages — quy trình 5 bước và mẹo cho người mới."
 pubDate: 2026-06-20
 updatedDate: 2026-07-08
 category: "cong-nghe"
 tags: ["Astro", "Cloudflare Pages", "website", "làm web"]
-heroAlt: "Sơ đồ mạng lưới kết nối biểu tượng cho việc xây dựng và triển khai website hiện đại"
+heroImage: "/images/posts/hero-xay-web.svg"
+heroAlt: "Cửa sổ trình duyệt với bố cục website, biểu tượng cho việc xây dựng website hiện đại"
 faq:
   - q: "Xây website cá nhân bằng Astro và Cloudflare Pages có thật sự miễn phí không?"
     a: "Có. Astro là framework mã nguồn mở miễn phí, và Cloudflare Pages cung cấp gói miễn phí đủ dùng cho nhu cầu cá nhân (bao gồm hosting, SSL và CDN toàn cầu). Bạn chỉ tốn tiền nếu muốn mua tên miền riêng."
@@ -45,6 +46,8 @@ Website cá nhân là nơi bạn kể câu chuyện của mình mà không phụ
 5. **Trỏ tên miền** — thêm custom domain trong Cloudflare Pages. Xong!
 
 Từ đó về sau, mỗi lần bạn cập nhật nội dung và push lên `main`, website tự động build lại và lên sóng trong 1–2 phút.
+
+![Quy trình deploy: từ Code đến GitHub đến Cloudflare Pages](/images/posts/in-deploy.svg)
 
 ## Mẹo cho người mới
 

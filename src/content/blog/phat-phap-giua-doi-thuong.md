@@ -1,11 +1,12 @@
 ---
-title: "Ứng dụng Phật pháp giữa đời thường bận rộn: tu ngay trong công việc"
-description: "Bạn không cần vào chùa mới tu được. Bài viết chỉ ra cách biến kẹt xe, deadline và mâu thuẫn công sở thành cơ hội thực hành Phật pháp, cùng lịch tu 3 việc nhỏ mỗi ngày."
+title: "Ứng dụng Phật pháp giữa đời thường bận rộn"
+description: "Bạn không cần vào chùa mới tu được. Cách biến kẹt xe, deadline và mâu thuẫn công sở thành cơ hội tu tập, kèm lịch tu 3 việc nhỏ mỗi ngày."
 pubDate: 2026-06-17
 updatedDate: 2026-07-08
 category: "phat-phap"
 tags: ["ứng dụng", "đời sống", "tu tập", "công việc"]
-heroAlt: "Hình người ngồi thiền bình an giữa khung cảnh nhẹ nhàng, biểu tượng của việc tu tập giữa đời thường"
+heroImage: "/images/posts/hero-phat-phap-doi-thuong.svg"
+heroAlt: "Mái chùa giữa nhịp sống thường ngày, biểu tượng của việc tu tập giữa đời thường"
 faq:
   - q: "Người đi làm bận rộn có tu tập được không?"
     a: "Hoàn toàn được. Tu không đòi hỏi phải vào chùa hay bỏ việc. Chính những tình huống đời thường — kẹt xe, áp lực deadline, đồng nghiệp khó tính — lại là môi trường lý tưởng để thực hành kiên nhẫn, từ bi và buông bỏ."
@@ -50,6 +51,8 @@ Công sở là nơi thử thách nhất. Khi cơn giận nổi lên, thử áp d
 - **Chọn lại:** đáp lại bằng sự bình tĩnh, không bằng phản xạ.
 
 Chỉ một khoảng dừng ngắn cũng đủ để biến một phản ứng nóng nảy thành một lựa chọn tỉnh táo.
+
+![Cân bằng giữa công việc và đời sống tinh thần](/images/posts/in-balance.svg)
 
 ## Tu là chuyển hóa, không phải trình diễn
 
