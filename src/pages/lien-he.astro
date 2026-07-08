@@ -1,0 +1,23 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { site } from '../config';
+---
+<BaseLayout title="Liên hệ" description="Kết nối với Nguyễn Ngọc Vũ qua YouTube, Facebook hoặc email.">
+  <article class="article">
+    <h1>Kết nối với tôi</h1>
+    <div class="prose">
+      <p>
+        Rất vui được gặp bạn. Nếu bạn muốn trao đổi về Phật pháp, công nghệ, hay chỉ đơn giản
+        là chào hỏi — hãy chọn kênh phù hợp nhất bên dưới nhé.
+      </p>
+      <ul>
+        <li>🎥 <strong>YouTube:</strong> <a href={site.social.youtube} target="_blank" rel="noopener">@cusiminhvan</a></li>
+        <li>📘 <strong>Facebook:</strong> <a href={site.social.facebook} target="_blank" rel="noopener">Vũ Trọc Sài Gòn</a></li>
+        <li>✉️ <strong>Email:</strong> <a href={`mailto:${site.email}`}>{site.email}</a></li>
+      </ul>
+      <blockquote>
+        "Sống chậm lại, thương nhiều hơn, và tạo ra điều tử tế mỗi ngày."
+      </blockquote>
+    </div>
+  </article>
+</BaseLayout>

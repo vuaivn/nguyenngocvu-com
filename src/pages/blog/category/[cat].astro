@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { categories } from '../../../config';
+import { getCollection } from 'astro:content';
+import { formatDate, categoryName } from '../../../utils';
+
+export async function getStaticPaths() {
+  return categories.map((c) => ({
+    params: { cat: c.slug },
+    props: { cat: c },
+  }));
+}
+
+const { cat } = Astro.props;
+const posts = (await getCollection('blog', ({ data }) => !data.draft && data.category === cat.slug))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+<BaseLayout title={cat.name} description={cat.desc}>
+  <section class="section">
+    <h1 style="text-align:center; font-size:2.1rem; margin-bottom:8px">{cat.name}</h1>
+    <p class="sub">{cat.desc}</p>
+    <div class="cat-pills">
+      <a href="/blog">Tất cả</a>
+      {categories.map((c) => (
+        <a href={`/blog/category/${c.slug}`} class={c.slug === cat.slug ? 'active' : ''}>{c.name}</a>
+      ))}
+    </div>
+    <ul class="post-list">
+      {posts.map((post) => (
+        <li class="post-item">
+          <div class="meta">
+            <span class="cat">{categoryName(post.data.category)}</span>
+            <span>{formatDate(post.data.pubDate)}</span>
+          </div>
+          <h3><a href={`/blog/${post.slug}`}>{post.data.title}</a></h3>
+          <p>{post.data.description}</p>
+        </li>
+      ))}
+    </ul>
+  </section>
+</BaseLayout>

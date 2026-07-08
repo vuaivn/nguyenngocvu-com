@@ -1,0 +1,64 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { site, pillars } from '../config';
+import { getCollection } from 'astro:content';
+import { formatDate, categoryName } from '../utils';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 4);
+---
+<BaseLayout>
+  <section class="hero">
+    <h1>Xin chào, tôi là Nguyễn Ngọc Vũ</h1>
+    <p class="tagline">{site.tagline}</p>
+    <p>
+      Một người đam mê công nghệ, yêu sự tự do và đang học cách đưa Phật pháp vào
+      đời sống. Tôi chọn internet để được tự do, chọn tạo giá trị bền vững để tìm bình yên —
+      giúp mọi người sống an lạc, giàu có và hạnh phúc hơn.
+    </p>
+    <div class="btn-row">
+      <a href="/blog" class="btn">Đọc blog</a>
+      <a href="/gioi-thieu" class="btn ghost">Về tôi</a>
+    </div>
+    <div class="chips" style="margin-top:28px">
+      {site.author.nicknames.map((n) => (
+        <div class="chip"><strong>{n.label}</strong> · <span>{n.field}</span></div>
+      ))}
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Tôi đang làm gì?</h2>
+    <p class="sub">Ba việc tôi dành tâm huyết mỗi ngày</p>
+    <div class="grid">
+      {pillars.map((p) => (
+        <a href={p.link} class="card" style="display:block; color:inherit">
+          <div class="icon">{p.icon}</div>
+          <h3>{p.title}</h3>
+          <p>{p.desc}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Bài viết mới</h2>
+    <p class="sub">Góc chia sẻ về Phật pháp, công nghệ và phát triển bản thân</p>
+    <ul class="post-list">
+      {posts.map((post) => (
+        <li class="post-item">
+          <div class="meta">
+            <span class="cat">{categoryName(post.data.category)}</span>
+            <span>{formatDate(post.data.pubDate)}</span>
+          </div>
+          <h3><a href={`/blog/${post.slug}`}>{post.data.title}</a></h3>
+          <p>{post.data.description}</p>
+        </li>
+      ))}
+    </ul>
+    <div class="btn-row" style="margin-top:28px">
+      <a href="/blog" class="btn ghost">Xem tất cả bài viết</a>
+    </div>
+  </section>
+</BaseLayout>
