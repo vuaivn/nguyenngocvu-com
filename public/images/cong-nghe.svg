@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Minh họa công nghệ và trí tuệ nhân tạo">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4ede1"/>
+      <stop offset="1" stop-color="#e6d7bf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg2)"/>
+  <!-- neural network nodes -->
+  <g stroke="#c98a52" stroke-width="2" opacity="0.5">
+    <line x1="360" y1="200" x2="600" y2="150"/>
+    <line x1="360" y1="200" x2="600" y2="315"/>
+    <line x1="360" y1="430" x2="600" y2="315"/>
+    <line x1="360" y1="430" x2="600" y2="480"/>
+    <line x1="600" y1="150" x2="840" y2="250"/>
+    <line x1="600" y1="315" x2="840" y2="250"/>
+    <line x1="600" y1="315" x2="840" y2="380"/>
+    <line x1="600" y1="480" x2="840" y2="380"/>
+  </g>
+  <g fill="#b8763e">
+    <circle cx="360" cy="200" r="26"/>
+    <circle cx="360" cy="430" r="26"/>
+    <circle cx="600" cy="150" r="30"/>
+    <circle cx="600" cy="315" r="34"/>
+    <circle cx="600" cy="480" r="30"/>
+    <circle cx="840" cy="250" r="26"/>
+    <circle cx="840" cy="380" r="26"/>
+  </g>
+  <g fill="#f4ede1">
+    <circle cx="600" cy="315" r="14"/>
+  </g>
+  <!-- chip frame -->
+  <rect x="540" y="255" width="120" height="120" rx="16" fill="none" stroke="#7a4a22" stroke-width="4" opacity="0.5"/>
+</svg>

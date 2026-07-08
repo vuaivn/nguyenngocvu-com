@@ -1,7 +1,8 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
-import { formatDate, categoryName } from '../../utils';
+import { site } from '../../config';
+import { formatDate, isoDate, categoryName, categoryImage, readingTime } from '../../utils';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog', ({ data }) => !data.draft);
@@ -13,17 +14,94 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await post.render();
+const { data } = post;
+
+const heroImg = data.heroImage ?? categoryImage(data.category);
+const heroAlt = data.heroAlt ?? `Minh họa cho bài viết: ${data.title}`;
+const mins = readingTime(post.body);
+const url = new URL(`/blog/${post.slug}/`, site.url).href;
+const catUrl = new URL(`/blog/category/${data.category}/`, site.url).href;
+
+const jsonld: object[] = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: data.title,
+    description: data.description,
+    image: new URL(heroImg, site.url).href,
+    datePublished: isoDate(data.pubDate),
+    dateModified: isoDate(data.updatedDate ?? data.pubDate),
+    inLanguage: 'vi-VN',
+    author: { '@type': 'Person', name: site.author.name, url: site.url },
+    publisher: {
+      '@type': 'Person',
+      name: site.author.name,
+      url: site.url,
+    },
+    mainEntityOfPage: { '@type': 'WebPage', '@id': url },
+    articleSection: categoryName(data.category),
+    keywords: data.tags.join(', '),
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Trang chủ', item: site.url },
+      { '@type': 'ListItem', position: 2, name: 'Blog', item: new URL('/blog/', site.url).href },
+      { '@type': 'ListItem', position: 3, name: categoryName(data.category), item: catUrl },
+      { '@type': 'ListItem', position: 4, name: data.title, item: url },
+    ],
+  },
+];
+
+if (data.faq.length > 0) {
+  jsonld.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: data.faq.map((f) => ({
+      '@type': 'Question',
+      name: f.q,
+      acceptedAnswer: { '@type': 'Answer', text: f.a },
+    })),
+  });
+}
 ---
-<BaseLayout title={post.data.title} description={post.data.description}>
+<BaseLayout
+  title={data.title}
+  description={data.description}
+  image={heroImg}
+  type="article"
+  publishedTime={isoDate(data.pubDate)}
+  modifiedTime={isoDate(data.updatedDate ?? data.pubDate)}
+  jsonld={jsonld}
+>
   <article class="article">
     <a href="/blog" class="back-link">← Quay lại Blog</a>
     <div class="meta">
-      <span class="cat" style="color:var(--accent);font-weight:600">{categoryName(post.data.category)}</span>
-      <span>{formatDate(post.data.pubDate)}</span>
+      <a href={`/blog/category/${data.category}`} class="cat" style="color:var(--accent);font-weight:600">{categoryName(data.category)}</a>
+      <span>{formatDate(data.pubDate)}</span>
+      <span>· {mins} phút đọc</span>
     </div>
-    <h1>{post.data.title}</h1>
+    <h1>{data.title}</h1>
+    <img class="hero-img" src={heroImg} alt={heroAlt} width="1200" height="630" loading="eager" />
     <div class="prose">
       <Content />
+    </div>
+
+    {data.faq.length > 0 && (
+      <section class="faq">
+        <h2>Câu hỏi thường gặp</h2>
+        {data.faq.map((f) => (
+          <details class="faq-item">
+            <summary>{f.q}</summary>
+            <p>{f.a}</p>
+          </details>
+        ))}
+      </section>
+    )}
+
+    <div class="tags">
+      {data.tags.map((t) => <span class="tag">#{t}</span>)}
     </div>
   </article>
 </BaseLayout>

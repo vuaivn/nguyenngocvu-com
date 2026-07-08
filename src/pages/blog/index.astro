@@ -1,8 +1,8 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
 import { categories } from '../../config';
 import { getCollection } from 'astro:content';
-import { formatDate, categoryName } from '../../utils';
 
 const posts = (await getCollection('blog', ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
@@ -17,17 +17,8 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
         <a href={`/blog/category/${c.slug}`}>{c.name}</a>
       ))}
     </div>
-    <ul class="post-list">
-      {posts.map((post) => (
-        <li class="post-item">
-          <div class="meta">
-            <span class="cat">{categoryName(post.data.category)}</span>
-            <span>{formatDate(post.data.pubDate)}</span>
-          </div>
-          <h3><a href={`/blog/${post.slug}`}>{post.data.title}</a></h3>
-          <p>{post.data.description}</p>
-        </li>
-      ))}
+    <ul class="post-list grid-list">
+      {posts.map((post) => <PostCard post={post} />)}
     </ul>
   </section>
 </BaseLayout>

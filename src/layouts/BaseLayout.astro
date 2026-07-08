@@ -7,11 +7,49 @@ import '../styles/global.css';
 interface Props {
   title?: string;
   description?: string;
+  image?: string;
+  type?: 'website' | 'article';
+  publishedTime?: string;
+  modifiedTime?: string;
+  jsonld?: object[];
 }
-const { title, description } = Astro.props;
+const {
+  title,
+  description,
+  image,
+  type = 'website',
+  publishedTime,
+  modifiedTime,
+  jsonld = [],
+} = Astro.props;
+
 const pageTitle = title ? `${title} · ${site.name}` : `${site.name} — ${site.tagline}`;
 const pageDesc = description ?? site.description;
 const canonical = new URL(Astro.url.pathname, site.url).href;
+const ogImage = new URL(image ?? '/images/phat-trien-ban-than.svg', site.url).href;
+
+// Website + Person schema mặc định (giúp GEO/AIO nhận diện tác giả & site)
+const baseSchema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: site.name,
+    url: site.url,
+    inLanguage: 'vi-VN',
+    description: site.description,
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    name: site.author.name,
+    alternateName: site.author.nicknames.map((n) => n.label),
+    url: site.url,
+    sameAs: [site.social.youtube, site.social.facebook],
+    description:
+      'Người đam mê công nghệ, yêu tự do, học và ứng dụng Phật pháp vào đời sống; sáng tạo nội dung và xây dựng sản phẩm số.',
+  },
+];
+const allSchema = [...baseSchema, ...jsonld];
 ---
 <!DOCTYPE html>
 <html lang="vi">
@@ -22,12 +60,31 @@ const canonical = new URL(Astro.url.pathname, site.url).href;
     <title>{pageTitle}</title>
     <meta name="description" content={pageDesc} />
     <link rel="canonical" href={canonical} />
-    <meta property="og:type" content="website" />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <meta name="author" content={site.author.name} />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content={type} />
+    <meta property="og:site_name" content={site.name} />
+    <meta property="og:locale" content="vi_VN" />
     <meta property="og:title" content={pageTitle} />
     <meta property="og:description" content={pageDesc} />
     <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={ogImage} />
+    {publishedTime && <meta property="article:published_time" content={publishedTime} />}
+    {modifiedTime && <meta property="article:modified_time" content={modifiedTime} />}
+
+    <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={pageDesc} />
+    <meta name="twitter:image" content={ogImage} />
+
     <link rel="alternate" type="application/rss+xml" title={site.name} href="/rss.xml" />
+
+    {allSchema.map((s) => (
+      <script type="application/ld+json" set:html={JSON.stringify(s)} />
+    ))}
   </head>
   <body>
     <Header />
