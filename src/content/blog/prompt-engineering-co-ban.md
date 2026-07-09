@@ -5,7 +5,7 @@ pubDate: 2026-06-28
 updatedDate: 2026-07-08
 category: "cong-nghe"
 tags: ["AI", "prompt engineering", "ChatGPT", "công nghệ"]
-heroImage: "/images/posts/hero-prompt.svg"
+heroImage: "/images/posts/hero-prompt.webp"
 heroAlt: "Khung chat với con trỏ dòng lệnh, biểu tượng cho việc giao tiếp với mô hình AI qua prompt"
 faq:
   - q: "Prompt engineering là gì?"
@@ -49,7 +49,7 @@ Prompt engineering là kỹ năng thiết kế câu lệnh để AI hiểu đún
 
 Với bài toán phức tạp, thêm "hãy suy nghĩ từng bước" thường cho kết quả chính xác hơn nhiều, vì nó buộc AI lập luận có trình tự thay vì đoán nhanh.
 
-![Bốn nguyên tắc prompt engineering: rõ ràng, vai trò, ví dụ, từng bước](/images/posts/in-steps4.svg)
+![Bốn nguyên tắc prompt engineering: rõ ràng, vai trò, ví dụ, từng bước](/images/posts/in-steps4.webp)
 
 ## Những mẹo nhỏ nhưng hiệu quả
 

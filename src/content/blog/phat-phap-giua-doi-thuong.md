@@ -5,7 +5,7 @@ pubDate: 2026-06-17
 updatedDate: 2026-07-08
 category: "phat-phap"
 tags: ["ứng dụng", "đời sống", "tu tập", "công việc"]
-heroImage: "/images/posts/hero-phat-phap-doi-thuong.svg"
+heroImage: "/images/posts/hero-phat-phap-doi-thuong.webp"
 heroAlt: "Mái chùa giữa nhịp sống thường ngày, biểu tượng của việc tu tập giữa đời thường"
 faq:
   - q: "Người đi làm bận rộn có tu tập được không?"
@@ -52,7 +52,7 @@ Công sở là nơi thử thách nhất. Khi cơn giận nổi lên, thử áp d
 
 Chỉ một khoảng dừng ngắn cũng đủ để biến một phản ứng nóng nảy thành một lựa chọn tỉnh táo.
 
-![Cân bằng giữa công việc và đời sống tinh thần](/images/posts/in-balance.svg)
+![Cân bằng giữa công việc và đời sống tinh thần](/images/posts/in-balance.webp)
 
 ## Tu là chuyển hóa, không phải trình diễn
 

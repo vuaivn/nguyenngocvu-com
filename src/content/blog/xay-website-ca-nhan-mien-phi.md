@@ -5,7 +5,7 @@ pubDate: 2026-06-20
 updatedDate: 2026-07-08
 category: "cong-nghe"
 tags: ["Astro", "Cloudflare Pages", "website", "làm web"]
-heroImage: "/images/posts/hero-xay-web.svg"
+heroImage: "/images/posts/hero-xay-web.webp"
 heroAlt: "Cửa sổ trình duyệt với bố cục website, biểu tượng cho việc xây dựng website hiện đại"
 faq:
   - q: "Xây website cá nhân bằng Astro và Cloudflare Pages có thật sự miễn phí không?"
@@ -47,7 +47,7 @@ Website cá nhân là nơi bạn kể câu chuyện của mình mà không phụ
 
 Từ đó về sau, mỗi lần bạn cập nhật nội dung và push lên `main`, website tự động build lại và lên sóng trong 1–2 phút.
 
-![Quy trình deploy: từ Code đến GitHub đến Cloudflare Pages](/images/posts/in-deploy.svg)
+![Quy trình deploy: từ Code đến GitHub đến Cloudflare Pages](/images/posts/in-deploy.webp)
 
 ## Mẹo cho người mới
 

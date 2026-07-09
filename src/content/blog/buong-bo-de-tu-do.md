@@ -5,7 +5,7 @@ pubDate: 2026-06-24
 updatedDate: 2026-07-08
 category: "phat-phap"
 tags: ["buông bỏ", "tự do", "vô thường", "dính mắc"]
-heroImage: "/images/posts/hero-buong-bo.svg"
+heroImage: "/images/posts/hero-buong-bo.webp"
 heroAlt: "Bàn tay mở thả cánh chim bay, biểu tượng của sự buông bỏ và tự do nội tâm"
 faq:
   - q: "Buông bỏ trong đạo Phật có nghĩa là từ bỏ mọi thứ không?"
@@ -36,7 +36,7 @@ Hãy thử để ý: mỗi lần bạn thấy căng thẳng, phía sau thường
 
 Người buông bỏ giỏi không phải người có ít, mà là người **giữ mọi thứ trong lòng bàn tay mở**, sẵn sàng nắm và sẵn sàng thả.
 
-![Hoa sen — biểu tượng của sự buông bỏ và thanh tịnh](/images/posts/in-lotus.svg)
+![Hoa sen — biểu tượng của sự buông bỏ và thanh tịnh](/images/posts/in-lotus.webp)
 
 ## Vô thường là món quà, không phải nỗi buồn
 

@@ -5,7 +5,7 @@ pubDate: 2026-07-05
 updatedDate: 2026-07-08
 category: "cong-nghe"
 tags: ["AI", "AI Agent", "tự động hóa", "công nghệ"]
-heroImage: "/images/posts/hero-ai-agent.svg"
+heroImage: "/images/posts/hero-ai-agent.webp"
 heroAlt: "Mạng nơ-ron kết nối tới một robot trung tâm, biểu tượng cho AI Agent tự hành động"
 faq:
   - q: "AI Agent là gì?"
@@ -40,7 +40,7 @@ Hầu hết AI Agent vận hành theo một vòng lặp bốn bước:
 
 Chính vòng lặp "lập kế hoạch → hành động → đánh giá" này khiến agent xử lý được những việc phức tạp, nhiều bước mà một câu trả lời đơn lẻ không làm nổi.
 
-![Vòng lặp hoạt động của AI Agent: kế hoạch, hành động, đánh giá, điều chỉnh](/images/posts/in-loop.svg)
+![Vòng lặp hoạt động của AI Agent: kế hoạch, hành động, đánh giá, điều chỉnh](/images/posts/in-loop.webp)
 
 ## Các thành phần chính của một AI Agent
 

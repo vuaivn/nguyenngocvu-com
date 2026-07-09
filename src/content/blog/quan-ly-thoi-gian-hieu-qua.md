@@ -5,7 +5,7 @@ pubDate: 2026-06-26
 updatedDate: 2026-07-08
 category: "phat-trien-ban-than"
 tags: ["quản lý thời gian", "năng suất", "tập trung", "ưu tiên"]
-heroImage: "/images/posts/hero-thoi-gian.svg"
+heroImage: "/images/posts/hero-thoi-gian.webp"
 heroAlt: "Đồng hồ cạnh ma trận ưu tiên bốn ô, biểu tượng cho quản lý thời gian hiệu quả"
 faq:
   - q: "Làm sao để quản lý thời gian hiệu quả?"
@@ -35,7 +35,7 @@ Thời gian trôi đều đặn dù bạn làm gì — bạn không thể "quả
 
 Sai lầm của đa số là dành cả ngày cho ô "Gấp" mà quên ô "Quan trọng & Không gấp" — nơi thật sự quyết định tương lai.
 
-![Ma trận ưu tiên Eisenhower phân loại công việc theo Quan trọng và Gấp](/images/posts/in-matrix.svg)
+![Ma trận ưu tiên Eisenhower phân loại công việc theo Quan trọng và Gấp](/images/posts/in-matrix.webp)
 
 ## Ba thói quen giúp tập trung sâu
 
