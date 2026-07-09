@@ -22,6 +22,23 @@ const mins = readingTime(post.body);
 const url = new URL(`/blog/${post.slug}/`, site.url).href;
 const catUrl = new URL(`/blog/category/${data.category}/`, site.url).href;
 
+// Gợi ý bài cùng category (loại bài hiện tại), tối đa 3, ưu tiên bài mới nhất.
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+const related = allPosts
+  .filter((p) => p.data.category === data.category && p.slug !== post.slug)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 3);
+
+// Link share mạng xã hội.
+const shareText = encodeURIComponent(data.title);
+const shareUrl = encodeURIComponent(url);
+const share = {
+  facebook: `https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`,
+  x: `https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}`,
+  telegram: `https://t.me/share/url?url=${shareUrl}&text=${shareText}`,
+  linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${shareUrl}`,
+};
+
 const jsonld: object[] = [
   {
     '@context': 'https://schema.org',
@@ -88,6 +105,14 @@ if (data.faq.length > 0) {
       <Content />
     </div>
 
+    <div class="share">
+      <span class="share-label">Chia sẻ bài viết:</span>
+      <a class="share-btn fb" href={share.facebook} target="_blank" rel="noopener" aria-label="Chia sẻ lên Facebook">Facebook</a>
+      <a class="share-btn x" href={share.x} target="_blank" rel="noopener" aria-label="Chia sẻ lên X (Twitter)">X</a>
+      <a class="share-btn tg" href={share.telegram} target="_blank" rel="noopener" aria-label="Chia sẻ lên Telegram">Telegram</a>
+      <a class="share-btn li" href={share.linkedin} target="_blank" rel="noopener" aria-label="Chia sẻ lên LinkedIn">LinkedIn</a>
+    </div>
+
     {data.faq.length > 0 && (
       <section class="faq">
         <h2>Câu hỏi thường gặp</h2>
@@ -103,5 +128,73 @@ if (data.faq.length > 0) {
     <div class="tags">
       {data.tags.map((t) => <span class="tag">#{t}</span>)}
     </div>
+
+    {related.length > 0 && (
+      <section class="related">
+        <h2>Bài viết cùng chủ đề</h2>
+        <div class="related-grid">
+          {related.map((p) => (
+            <a class="related-card" href={`/blog/${p.slug}/`}>
+              <img
+                src={p.data.heroImage ?? categoryImage(p.data.category)}
+                alt={p.data.heroAlt ?? p.data.title}
+                width="400"
+                height="225"
+                loading="lazy"
+              />
+              <div class="related-body">
+                <span class="related-cat">{categoryName(p.data.category)}</span>
+                <h3>{p.data.title}</h3>
+              </div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
   </article>
 </BaseLayout>
+
+<style>
+  .share {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 2rem 0;
+    padding: 1rem 0;
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+  .share-label { font-weight: 600; color: var(--muted, #666); }
+  .share-btn {
+    display: inline-block;
+    padding: 6px 14px;
+    border-radius: 999px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border: 1.5px solid var(--accent);
+    color: var(--accent);
+    transition: all 0.2s;
+  }
+  .share-btn:hover { background: var(--accent); color: #fff; transform: translateY(-2px); }
+  .related { margin-top: 3rem; }
+  .related h2 { margin-bottom: 1.2rem; }
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1.2rem;
+  }
+  .related-card {
+    display: block;
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .related-card:hover { transform: translateY(-4px); box-shadow: 0 8px 20px rgba(0,0,0,0.08); }
+  .related-card img { width: 100%; height: auto; display: block; }
+  .related-body { padding: 0.9rem 1rem 1.1rem; }
+  .related-cat { font-size: 0.8rem; color: var(--accent); font-weight: 600; }
+  .related-body h3 { font-size: 1rem; margin: 0.3rem 0 0; line-height: 1.4; color: var(--fg, #1a1a1a); }
+</style>
