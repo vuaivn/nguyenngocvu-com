@@ -1,12 +1,17 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
-import { site, pillars } from '../config';
+import { site, pillars, categories } from '../config';
 import { getCollection } from 'astro:content';
 
-const posts = (await getCollection('blog', ({ data }) => !data.draft))
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 3);
+const allPosts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+// Mỗi category lấy 5 bài mới nhất.
+const columns = categories.map((cat) => ({
+  ...cat,
+  posts: allPosts.filter((p) => p.data.category === cat.slug).slice(0, 5),
+}));
 ---
 <BaseLayout>
   <section class="hero">
@@ -45,11 +50,41 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
   <section class="section">
     <h2>Bài viết mới</h2>
     <p class="sub">Góc chia sẻ về Phật pháp, công nghệ và phát triển bản thân</p>
-    <ul class="post-list grid-list">
-      {posts.map((post) => <PostCard post={post} />)}
-    </ul>
+    <div class="cat-columns">
+      {columns.map((col) => (
+        <div class="cat-column">
+          <a href={`/blog/category/${col.slug}`} class="cat-column-head">
+            <h3>{col.name}</h3>
+          </a>
+          <ul class="post-list">
+            {col.posts.map((post) => <PostCard post={post} />)}
+          </ul>
+        </div>
+      ))}
+    </div>
     <div class="btn-row" style="margin-top:28px">
       <a href="/blog" class="btn ghost">Xem tất cả bài viết</a>
     </div>
   </section>
 </BaseLayout>
+
+<style>
+  .cat-columns {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.8rem;
+    align-items: start;
+  }
+  .cat-column-head {
+    display: block;
+    padding-bottom: 0.6rem;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid var(--accent);
+    color: inherit;
+  }
+  .cat-column-head h3 { margin: 0; color: var(--accent); font-size: 1.15rem; }
+  .cat-column .post-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 1.4rem; }
+  @media (max-width: 900px) {
+    .cat-columns { grid-template-columns: 1fr; gap: 2.4rem; }
+  }
+</style>
