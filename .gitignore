@@ -11,3 +11,10 @@ npm-debug.log*
 .env.production
 # macOS
 .DS_Store
+
+# Cloudflare Wrangler secrets
+.dev.vars
+.dev.vars.*
+# extra env
+.env.*
+.wrangler/
