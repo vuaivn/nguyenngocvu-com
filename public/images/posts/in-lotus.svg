@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Hoa sen — bieu tuong cua su buong bo va thanh tinh">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f2ece2"/><stop offset="1" stop-color="#eaddc6"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+
+  <g fill="#c98a52"><path d="M400 340 C350 300 350 260 400 250 C450 260 450 300 400 340 Z"/>
+  <path d="M320 345 C300 305 320 275 360 285 C378 305 360 335 320 345 Z"/>
+  <path d="M480 345 C500 305 480 275 440 285 C422 305 440 335 480 345 Z"/></g>
+  <ellipse cx="400" cy="350" rx="150" ry="24" fill="#b8763e" opacity="0.25"/>
+</svg>

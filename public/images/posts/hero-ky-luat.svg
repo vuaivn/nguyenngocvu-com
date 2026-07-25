@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 Minh hoa ky luat — bac thang va mui ten len 630" role="img" aria-label="">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7ecd9"/><stop offset="1" stop-color="#e9d3ad"/></linearGradient></defs>
+  <rect width="Minh hoa ky luat — bac thang va mui ten len" height="630" fill="url(#bg)"/>
+
+  <g fill="#b8763e" opacity="0.9">
+    <rect x="330" y="430" width="90" height="60" rx="8"/>
+    <rect x="450" y="380" width="90" height="110" rx="8"/>
+    <rect x="570" y="330" width="90" height="160" rx="8"/>
+    <rect x="690" y="270" width="90" height="220" rx="8"/>
+    <rect x="810" y="210" width="90" height="280" rx="8"/>
+  </g>
+  <path d="M330 400 L860 170" stroke="#7a4a22" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <path d="M815 165 L875 158 L852 210 Z" fill="#7a4a22" opacity="0.7"/>
+</svg>

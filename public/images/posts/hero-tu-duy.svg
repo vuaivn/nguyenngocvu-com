@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 Minh hoa tu duy phat trien — hat mam vuon len 630" role="img" aria-label="">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7ecd9"/><stop offset="1" stop-color="#e9d3ad"/></linearGradient></defs>
+  <rect width="Minh hoa tu duy phat trien — hat mam vuon len" height="630" fill="url(#bg)"/>
+
+  <path d="M600 460 L600 300" stroke="#7a4a22" stroke-width="10" stroke-linecap="round"/>
+  <path d="M600 330 q-70 -10 -100 -80 q80 -10 100 60 Z" fill="#b8763e" opacity="0.9"/>
+  <path d="M600 300 q70 -20 110 -95 q-85 0 -110 75 Z" fill="#c98a52" opacity="0.9"/>
+  <path d="M600 250 q-50 -20 -70 -85 q60 5 70 70 Z" fill="#d99a48" opacity="0.9"/>
+  <ellipse cx="600" cy="470" rx="150" ry="26" fill="#7a4a22" opacity="0.2"/>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Minh họa thiền định và chánh niệm">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f7ecd9"/>
+      <stop offset="1" stop-color="#e9d3ad"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#sky)"/>
+  <circle cx="600" cy="250" r="150" fill="#e9b86c" opacity="0.55"/>
+  <circle cx="600" cy="250" r="95" fill="#d99a48" opacity="0.5"/>
+  <ellipse cx="600" cy="500" rx="230" ry="42" fill="#b8763e" opacity="0.25"/>
+  <g fill="#7a4a22">
+    <circle cx="600" cy="330" r="46"/>
+    <path d="M600 380 C540 380 505 430 500 480 L700 480 C695 430 660 380 600 380 Z"/>
+    <path d="M500 470 C470 455 452 470 470 495 C486 505 505 495 512 484 Z"/>
+    <path d="M700 470 C730 455 748 470 730 495 C714 505 695 495 688 484 Z"/>
+  </g>
+  <g fill="#c98a52">
+    <path d="M600 500 C560 470 560 440 600 430 C640 440 640 470 600 500 Z"/>
+    <path d="M520 505 C500 470 515 445 555 452 C575 470 560 495 520 505 Z"/>
+    <path d="M680 505 C700 470 685 445 645 452 C625 470 640 495 680 505 Z"/>
+    <path d="M455 515 C445 485 465 468 500 480 C512 500 495 515 455 515 Z"/>
+    <path d="M745 515 C755 485 735 468 700 480 C688 500 705 515 745 515 Z"/>
+  </g>
+</svg>

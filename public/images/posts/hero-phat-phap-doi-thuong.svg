@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 Minh hoa tu tap giua doi thuong — mai chua 630" role="img" aria-label="">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f7ecd9"/><stop offset="1" stop-color="#e9d3ad"/></linearGradient></defs>
+  <rect width="Minh hoa tu tap giua doi thuong — mai chua" height="630" fill="url(#bg)"/>
+
+  <path d="M600 180 L760 280 L440 280 Z" fill="#b8763e" opacity="0.9"/>
+  <rect x="480" y="280" width="240" height="150" fill="#c98a52" opacity="0.85"/>
+  <rect x="560" y="340" width="80" height="90" fill="#7a4a22"/>
+  <circle cx="600" cy="150" r="18" fill="#d99a48"/>
+  <g stroke="#7a4a22" stroke-width="4" opacity="0.4">
+    <line x1="200" y1="470" x2="1000" y2="470"/>
+  </g>
+  <circle cx="300" cy="450" r="14" fill="#b8763e" opacity="0.6"/>
+  <circle cx="900" cy="450" r="14" fill="#b8763e" opacity="0.6"/>
+</svg>

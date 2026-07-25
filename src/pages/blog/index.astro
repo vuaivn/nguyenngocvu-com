@@ -1,0 +1,24 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { categories } from '../../config';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+---
+<BaseLayout title="Blog" description="Tất cả bài viết về Phật pháp, công nghệ AI và phát triển bản thân.">
+  <section class="section">
+    <h1 style="text-align:center; font-size:2.1rem; margin-bottom:8px">Blog</h1>
+    <p class="sub">Chia sẻ về Phật pháp, công nghệ và hành trình phát triển bản thân</p>
+    <div class="cat-pills">
+      <a href="/blog" class="active">Tất cả</a>
+      {categories.map((c) => (
+        <a href={`/blog/category/${c.slug}`}>{c.name}</a>
+      ))}
+    </div>
+    <ul class="post-list grid-list">
+      {posts.map((post) => <PostCard post={post} />)}
+    </ul>
+  </section>
+</BaseLayout>

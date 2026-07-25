@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Can bang giua cong viec va doi song">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f2ece2"/><stop offset="1" stop-color="#eaddc6"/></linearGradient></defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+
+  <line x1="400" y1="120" x2="400" y2="180" stroke="#7a4a22" stroke-width="6"/>
+  <line x1="250" y1="180" x2="550" y2="180" stroke="#7a4a22" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="250" cy="260" r="55" fill="#b8763e" opacity="0.8"/>
+  <circle cx="550" cy="260" r="55" fill="#c98a52" opacity="0.8"/>
+  <line x1="250" y1="180" x2="250" y2="210" stroke="#7a4a22" stroke-width="3"/>
+  <line x1="550" y1="180" x2="550" y2="210" stroke="#7a4a22" stroke-width="3"/>
+  <path d="M360 320 h80" stroke="#7a4a22" stroke-width="6" stroke-linecap="round"/>
+</svg>

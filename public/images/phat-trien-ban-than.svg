@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Minh họa phát triển bản thân và trưởng thành">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6ecd8"/>
+      <stop offset="1" stop-color="#e8d4b2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg3)"/>
+  <!-- growth arrow / steps -->
+  <g fill="#b8763e" opacity="0.85">
+    <rect x="330" y="430" width="90" height="90" rx="10"/>
+    <rect x="470" y="370" width="90" height="150" rx="10"/>
+    <rect x="610" y="300" width="90" height="220" rx="10"/>
+    <rect x="750" y="220" width="90" height="300" rx="10"/>
+  </g>
+  <!-- rising sprout -->
+  <g fill="#7a4a22">
+    <path d="M900 220 C900 160 940 150 940 150 C940 150 930 200 900 220 Z"/>
+    <path d="M900 220 C900 160 860 150 860 150 C860 150 870 200 900 220 Z"/>
+    <rect x="895" y="210" width="10" height="70"/>
+  </g>
+  <!-- ascending arrow -->
+  <path d="M300 470 L840 200" stroke="#d99a48" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.7"/>
+  <path d="M800 195 L850 190 L835 235 Z" fill="#d99a48" opacity="0.7"/>
+</svg>
