@@ -7,7 +7,7 @@ const blog = defineCollection({
     description: z.string(),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
-    category: z.enum(['phat-phap', 'cong-nghe', 'phat-trien-ban-than']),
+    category: z.enum(['phat-phap', 'cong-nghe', 'phat-trien-ban-than', 'ung-dung']),
     tags: z.array(z.string()).default([]),
     heroImage: z.string().optional(),
     heroAlt: z.string().optional(),

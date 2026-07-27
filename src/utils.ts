@@ -21,6 +21,7 @@ export function categoryImage(slug: string): string {
     'phat-phap': '/images/phat-phap.svg',
     'cong-nghe': '/images/cong-nghe.svg',
     'phat-trien-ban-than': '/images/phat-trien-ban-than.svg',
+    'ung-dung': '/images/ung-dung.svg',
   };
   return map[slug] ?? '/images/phat-trien-ban-than.svg';
 }

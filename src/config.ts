@@ -36,6 +36,11 @@ export const categories = [
     name: 'Phát triển bản thân',
     desc: 'Tự do, kỷ luật và hành trình trở thành phiên bản tốt hơn.',
   },
+  {
+    slug: 'ung-dung',
+    name: 'Ứng dụng',
+    desc: 'Giới thiệu các ứng dụng AI thực dụng cho người sáng tạo nội dung và làm việc số.',
+  },
 ];
 
 export const pillars = [
@@ -55,6 +60,6 @@ export const pillars = [
     icon: '🛠️',
     title: 'Xây website & app',
     desc: 'Tạo sản phẩm số giúp người dùng an lạc, giàu có và hạnh phúc hơn.',
-    link: '/blog/category/cong-nghe',
+    link: '/blog/category/ung-dung',
   },
 ];
