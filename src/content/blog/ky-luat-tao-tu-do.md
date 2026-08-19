@@ -67,4 +67,4 @@ Tự do không phải thứ bạn có sẵn rồi tiêu xài. Nó là **thành q
 - Dựa vào hệ thống thay vì chờ động lực.
 </div>
 
-Kỷ luật giúp bạn tự do bên ngoài; nhưng còn tự do bên trong thì sao? Đọc thêm [Buông bỏ để được tự do](/blog/buong-bo-de-tu-do) để thấy hai mặt bổ sung của cùng một hành trình.
+Kỷ luật giúp bạn tự do bên ngoài; nhưng còn tự do bên trong thì sao? Đọc thêm [Buông bỏ để được tự do](/blog/buong-bo-de-tu-do/) để thấy hai mặt bổ sung của cùng một hành trình.

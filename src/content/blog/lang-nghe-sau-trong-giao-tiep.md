@@ -38,7 +38,7 @@ Có vài lý do rất người khiến điều này xảy ra:
 
 Thiền sư Thích Nhất Hạnh gọi lắng nghe sâu là "lắng nghe với lòng từ bi". Mục đích duy nhất là giúp người kia vơi bớt khổ đau. Khi ta nghe với ý định đó, cả cách ta ngồi, thở và nhìn đều thay đổi.
 
-Thực hành này gắn chặt với [chánh niệm trong đời sống hằng ngày](/blog/chanh-niem-trong-doi-song): ta đưa sự chú ý trở về giây phút hiện tại, nơi người kia đang thật sự có mặt. Mỗi khi tâm chạy đi soạn câu trả lời, ta nhận ra và nhẹ nhàng quay về với lời họ đang nói.
+Thực hành này gắn chặt với [chánh niệm trong đời sống hằng ngày](/blog/chanh-niem-trong-doi-song/): ta đưa sự chú ý trở về giây phút hiện tại, nơi người kia đang thật sự có mặt. Mỗi khi tâm chạy đi soạn câu trả lời, ta nhận ra và nhẹ nhàng quay về với lời họ đang nói.
 
 Điều kỳ diệu là: khi một người cảm thấy được lắng nghe thật sự, họ tự tìm ra câu trả lời của chính mình. Ta không cần phải "sửa" gì cả.
 
@@ -53,7 +53,7 @@ Thực hành này gắn chặt với [chánh niệm trong đời sống hằng n
 
 ## Khi lắng nghe sâu là buông bỏ
 
-Lắng nghe sâu cũng là một cách [buông bỏ để tự do](/blog/buong-bo-de-tu-do): buông nhu cầu phải đúng, phải giỏi hơn, phải kiểm soát cuộc trò chuyện. Khi ta ngừng giữ chặt cái tôi, một không gian trống mở ra — và chính không gian đó cho phép người kia được là chính họ.
+Lắng nghe sâu cũng là một cách [buông bỏ để tự do](/blog/buong-bo-de-tu-do/): buông nhu cầu phải đúng, phải giỏi hơn, phải kiểm soát cuộc trò chuyện. Khi ta ngừng giữ chặt cái tôi, một không gian trống mở ra — và chính không gian đó cho phép người kia được là chính họ.
 
 <div class="takeaways">
 <strong>Những điều cốt lõi</strong>
@@ -72,4 +72,4 @@ Lắng nghe sâu cũng là một cách [buông bỏ để tự do](/blog/buong-b
 
 **Làm sao thực hành mỗi ngày?** Đặt điện thoại xuống, nhìn vào mắt người nói, thở đều, và tự nhắc mình đang nghe để hiểu chứ không phải để đáp trả.
 
-Lắng nghe sâu không đòi kỹ thuật phức tạp — nó chỉ đòi ta chịu có mặt. Và đó, hóa ra, là điều khó nhất. Nếu bạn muốn đi xa hơn trên con đường này, hãy đọc thêm về [chánh niệm trong đời sống hằng ngày](/blog/chanh-niem-trong-doi-song).
+Lắng nghe sâu không đòi kỹ thuật phức tạp — nó chỉ đòi ta chịu có mặt. Và đó, hóa ra, là điều khó nhất. Nếu bạn muốn đi xa hơn trên con đường này, hãy đọc thêm về [chánh niệm trong đời sống hằng ngày](/blog/chanh-niem-trong-doi-song/).

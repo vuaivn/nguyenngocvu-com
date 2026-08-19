@@ -20,7 +20,7 @@ faq:
     a: "Tùy quy mô. Với các kỹ thuật hiện đại như LoRA (chỉ tinh chỉnh một phần nhỏ tham số), chi phí đã giảm mạnh và cá nhân/doanh nghiệp nhỏ hoàn toàn làm được. Phần tốn công nhất thường là chuẩn bị dữ liệu chất lượng, chứ không phải bản thân việc huấn luyện."
 ---
 
-**Tóm tắt nhanh:** Fine-tuning (tinh chỉnh) là **huấn luyện thêm cho một mô hình AI có sẵn trên dữ liệu riêng** để nó chuyên sâu hơn hoặc trả lời theo phong cách mong muốn. Khác với [RAG](/blog/rag-la-gi-cho-nguoi-moi) (tra cứu tài liệu bên ngoài), fine-tuning thay đổi chính "bộ não" của mô hình.
+**Tóm tắt nhanh:** Fine-tuning (tinh chỉnh) là **huấn luyện thêm cho một mô hình AI có sẵn trên dữ liệu riêng** để nó chuyên sâu hơn hoặc trả lời theo phong cách mong muốn. Khác với [RAG](/blog/rag-la-gi-cho-nguoi-moi/) (tra cứu tài liệu bên ngoài), fine-tuning thay đổi chính "bộ não" của mô hình.
 
 Khi mới dùng AI, tôi hay nghe ba khái niệm dễ lẫn: **prompt**, **RAG** và **fine-tuning**. Cả ba đều giúp AI làm tốt hơn nhưng theo cách rất khác nhau. Hôm nay tôi mổ xẻ cái thứ ba — fine-tuning — và quan trọng hơn: **khi nào thực sự nên dùng nó**.
 
@@ -37,7 +37,7 @@ Cụ thể: ta đưa cho mô hình nhiều cặp ví dụ "đầu vào → đầ
 Đây là chỗ nhiều người nhầm. Cách phân biệt đơn giản:
 
 - **Prompt** — hướng dẫn tức thời. Rẻ, nhanh, linh hoạt. Luôn thử trước tiên.
-- **RAG** — cho AI đọc tài liệu bên ngoài khi trả lời. Hợp khi cần **kiến thức mới, riêng tư, hay cập nhật** (xem [RAG là gì](/blog/rag-la-gi-cho-nguoi-moi) và [Vector database](/blog/vector-database-la-gi)).
+- **RAG** — cho AI đọc tài liệu bên ngoài khi trả lời. Hợp khi cần **kiến thức mới, riêng tư, hay cập nhật** (xem [RAG là gì](/blog/rag-la-gi-cho-nguoi-moi/) và [Vector database](/blog/vector-database-la-gi/)).
 - **Fine-tuning** — dạy mô hình một **phong cách/kỹ năng** cố định. Hợp khi cần sự nhất quán cao và định dạng đặc thù.
 
 Nguyên tắc của tôi: **Prompt → RAG → Fine-tuning**. Chỉ leo lên bậc sau khi bậc trước không đủ.
@@ -64,4 +64,4 @@ Nhờ kỹ thuật **LoRA** (chỉ tinh chỉnh một phần nhỏ tham số), f
 
 ## Kết
 
-Fine-tuning là công cụ mạnh nhưng không phải "cây đũa thần" cho mọi bài toán. Hiểu rõ nó khác gì RAG và prompt sẽ giúp bạn chọn đúng cách, tiết kiệm cả tiền lẫn công. Muốn hiểu bức tranh đầy đủ, đọc thêm [RAG là gì](/blog/rag-la-gi-cho-nguoi-moi) và [Vector database là gì](/blog/vector-database-la-gi).
+Fine-tuning là công cụ mạnh nhưng không phải "cây đũa thần" cho mọi bài toán. Hiểu rõ nó khác gì RAG và prompt sẽ giúp bạn chọn đúng cách, tiết kiệm cả tiền lẫn công. Muốn hiểu bức tranh đầy đủ, đọc thêm [RAG là gì](/blog/rag-la-gi-cho-nguoi-moi/) và [Vector database là gì](/blog/vector-database-la-gi/).

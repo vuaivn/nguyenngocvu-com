@@ -95,7 +95,7 @@ if (data.faq.length > 0) {
   <article class="article">
     <a href="/blog" class="back-link">← Quay lại Blog</a>
     <div class="meta">
-      <a href={`/blog/category/${data.category}`} class="cat" style="color:var(--accent);font-weight:600">{categoryName(data.category)}</a>
+      <a href={`/blog/category/${data.category}/`} class="cat" style="color:var(--accent);font-weight:600">{categoryName(data.category)}</a>
       <span>{formatDate(data.pubDate)}</span>
       <span>· {mins} phút đọc</span>
     </div>

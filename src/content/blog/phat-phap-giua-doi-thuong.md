@@ -67,4 +67,4 @@ Không ai cần biết bạn đang tu. Không cần đăng ảnh, không cần t
 - Tu là chuyển hóa cách phản ứng, không phải trình diễn cho người khác thấy.
 </div>
 
-Phật pháp không nằm trên kinh sách — nó nằm trong cách bạn sống hôm nay. Muốn khởi đầu, hãy đọc [Chánh niệm trong đời sống hằng ngày](/blog/chanh-niem-trong-doi-song) để có công cụ thực hành cụ thể ngay từ hơi thở.
+Phật pháp không nằm trên kinh sách — nó nằm trong cách bạn sống hôm nay. Muốn khởi đầu, hãy đọc [Chánh niệm trong đời sống hằng ngày](/blog/chanh-niem-trong-doi-song/) để có công cụ thực hành cụ thể ngay từ hơi thở.

@@ -73,4 +73,4 @@ Nhiều người tưởng bình an là khi mọi thứ đứng yên, ổn địn
 - Bình an là an nhiên giữa dòng đổi thay, không phải chờ mọi thứ đứng yên.
 </div>
 
-Hiểu vô thường là bước đầu; biết buông bỏ mới là hành trình. Đọc thêm [Buông bỏ để được tự do](/blog/buong-bo-de-tu-do) để thấy cách buông nhẹ giúp tâm ta rộng mở hơn giữa những đổi thay của cuộc đời.
+Hiểu vô thường là bước đầu; biết buông bỏ mới là hành trình. Đọc thêm [Buông bỏ để được tự do](/blog/buong-bo-de-tu-do/) để thấy cách buông nhẹ giúp tâm ta rộng mở hơn giữa những đổi thay của cuộc đời.

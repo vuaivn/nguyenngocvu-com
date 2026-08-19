@@ -76,4 +76,4 @@ Sau khi tâm đã bình, nếu cần, ta trở lại nói chuyện với ngườ
 
 ---
 
-Chuyển hóa cơn giận là hành trình dài, và nó gắn liền với việc thực tập [chánh niệm trong đời sống hằng ngày](/blog/chanh-niem-trong-doi-song). Khi ta học được cách sống an với vô thường, tâm cũng bớt phản ứng bồng bột hơn — bạn có thể đọc thêm về [sống an giữa vô thường](/blog/song-an-voi-vo-thuong) để nuôi dưỡng sự bình an nội tại.
+Chuyển hóa cơn giận là hành trình dài, và nó gắn liền với việc thực tập [chánh niệm trong đời sống hằng ngày](/blog/chanh-niem-trong-doi-song/). Khi ta học được cách sống an với vô thường, tâm cũng bớt phản ứng bồng bột hơn — bạn có thể đọc thêm về [sống an giữa vô thường](/blog/song-an-voi-vo-thuong/) để nuôi dưỡng sự bình an nội tại.

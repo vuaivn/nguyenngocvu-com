@@ -35,7 +35,7 @@ Ta đang đặt sự bình an của mình vào tay hàng nghìn người lạ �
 
 ## Vô ngã: không có "cái tôi" nào cần bảo vệ đến thế
 
-Đạo Phật đưa ra một tuệ giác giải phóng: **Vô ngã (anatta)**. Trong ba đặc tính của mọi sự vật — [vô thường](/blog/song-an-voi-vo-thuong), khổ, vô ngã — thì vô ngã nói rằng: **không có một cái tôi cố định, độc lập, bất biến** bên trong ta.
+Đạo Phật đưa ra một tuệ giác giải phóng: **Vô ngã (anatta)**. Trong ba đặc tính của mọi sự vật — [vô thường](/blog/song-an-voi-vo-thuong/), khổ, vô ngã — thì vô ngã nói rằng: **không có một cái tôi cố định, độc lập, bất biến** bên trong ta.
 
 Cái mà ta quen gọi là "tôi" thực ra là một **dòng chảy** gồm thân và tâm, luôn thay đổi từng khoảnh khắc, nương vào vô số điều kiện mà thành. Không có một "cái tôi" đứng yên nào để mà tô vẽ hay phòng thủ cả.
 
@@ -57,7 +57,7 @@ Không cần lý thuyết cao siêu, chỉ cần bắt đầu từ những việ
 
 1. **Quan sát cảm giác trước khi phản ứng.** Mỗi lần mở app, để ý: cảm giác gì khởi lên khi thấy thông báo? khi bài mình ít tương tác? khi thấy ai đó "hơn" mình? Chỉ cần nhận biết "à, cái tôi đang phản ứng" — đừng cuốn theo.
 2. **Đăng vì chia sẻ, không vì được công nhận.** Trước khi đăng, tự hỏi: mình làm điều này để trao đi giá trị, hay để xin xác nhận? Câu trả lời thành thật sẽ đổi cả cách ta hiện diện trên mạng.
-3. **Đặt xuống đúng lúc.** Tập [buông bỏ](/blog/buong-bo-de-tu-do) chiếc điện thoại khi đủ, quay về với hơi thở, với người đang ngồi trước mặt, với bữa cơm đang nguội. Cái tôi số càng ít được cho ăn, nó càng bớt cồn cào.
+3. **Đặt xuống đúng lúc.** Tập [buông bỏ](/blog/buong-bo-de-tu-do/) chiếc điện thoại khi đủ, quay về với hơi thở, với người đang ngồi trước mặt, với bữa cơm đang nguội. Cái tôi số càng ít được cho ăn, nó càng bớt cồn cào.
 
 ## Tự do thật sự
 
@@ -77,4 +77,4 @@ Mạng xã hội rồi sẽ đổi, thuật toán rồi sẽ khác, lượt like
 - Ba thực hành: quan sát trước khi phản ứng · đăng để chia sẻ chứ không xin công nhận · đặt xuống đúng lúc.
 </div>
 
-Hiểu Vô ngã là cởi bỏ một gánh nặng ta mang mà không hay. Nếu bài này chạm tới bạn, hãy đọc thêm [Buông bỏ để được tự do](/blog/buong-bo-de-tu-do) và [Sống an với vô thường](/blog/song-an-voi-vo-thuong) — hai người bạn đồng hành tự nhiên của Vô ngã trên hành trình nhẹ lòng giữa đời sống số.
+Hiểu Vô ngã là cởi bỏ một gánh nặng ta mang mà không hay. Nếu bài này chạm tới bạn, hãy đọc thêm [Buông bỏ để được tự do](/blog/buong-bo-de-tu-do/) và [Sống an với vô thường](/blog/song-an-voi-vo-thuong/) — hai người bạn đồng hành tự nhiên của Vô ngã trên hành trình nhẹ lòng giữa đời sống số.

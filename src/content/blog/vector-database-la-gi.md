@@ -22,7 +22,7 @@ faq:
 
 **Tóm tắt nhanh:** Vector database là nơi lưu **"ý nghĩa" của dữ liệu dưới dạng số** (vector), giúp AI tìm kiếm theo **ngữ nghĩa** thay vì từ khóa chính xác. Nó là mảnh ghép cốt lõi giúp AI có "bộ nhớ dài hạn" và trả lời dựa trên dữ liệu thật — nền tảng của kỹ thuật RAG.
 
-Trong bài [RAG là gì](/blog/rag-la-gi-cho-nguoi-moi), tôi có nhắc tới chuyện AI "biến tài liệu thành vector rồi lưu vào một kho". Cái kho đó chính là **vector database**. Đây là công nghệ âm thầm đứng sau rất nhiều ứng dụng AI mà tôi dùng hằng ngày — từ "chat với tài liệu" đến bộ nhớ của AI agent. Hãy cùng mổ xẻ nó một cách dễ hiểu.
+Trong bài [RAG là gì](/blog/rag-la-gi-cho-nguoi-moi/), tôi có nhắc tới chuyện AI "biến tài liệu thành vector rồi lưu vào một kho". Cái kho đó chính là **vector database**. Đây là công nghệ âm thầm đứng sau rất nhiều ứng dụng AI mà tôi dùng hằng ngày — từ "chat với tài liệu" đến bộ nhớ của AI agent. Hãy cùng mổ xẻ nó một cách dễ hiểu.
 
 ## Vì sao AI cần một loại database mới?
 
@@ -51,8 +51,8 @@ Phép "tìm gần nhất" này gọi là **similarity search** (tìm theo độ 
 
 ## Ứng dụng thực tế tôi thấy hữu ích
 
-- **RAG** — cho chatbot tra tài liệu nội bộ trước khi trả lời (xem [bài RAG](/blog/rag-la-gi-cho-nguoi-moi)).
-- **Bộ nhớ dài hạn cho AI agent** — lưu lại những gì đã trao đổi để lần sau "nhớ" (liên quan mật thiết tới [AI Agent là gì](/blog/ai-agent-la-gi)).
+- **RAG** — cho chatbot tra tài liệu nội bộ trước khi trả lời (xem [bài RAG](/blog/rag-la-gi-cho-nguoi-moi/)).
+- **Bộ nhớ dài hạn cho AI agent** — lưu lại những gì đã trao đổi để lần sau "nhớ" (liên quan mật thiết tới [AI Agent là gì](/blog/ai-agent-la-gi/)).
 - **Tìm kiếm ngữ nghĩa** trong kho tài liệu, ghi chú cá nhân.
 - **Gợi ý** sản phẩm, bài viết, video gần giống sở thích.
 
@@ -70,4 +70,4 @@ Nếu bạn muốn thử, tôi khuyên bắt đầu với **Chroma** — mã ngu
 
 ## Kết
 
-Vector database nghe "kỹ thuật" nhưng ý tưởng lại rất đời: **sắp xếp mọi thứ theo sự gần gũi về ý nghĩa**, giống cách trí nhớ con người liên tưởng. Hiểu được nó, bạn sẽ hiểu vì sao AI ngày nay có thể "đọc" tài liệu của bạn và trả lời đúng trọng tâm. Nếu muốn đi tiếp, đọc [RAG là gì](/blog/rag-la-gi-cho-nguoi-moi) để thấy vector database được dùng trong thực tế như thế nào.
+Vector database nghe "kỹ thuật" nhưng ý tưởng lại rất đời: **sắp xếp mọi thứ theo sự gần gũi về ý nghĩa**, giống cách trí nhớ con người liên tưởng. Hiểu được nó, bạn sẽ hiểu vì sao AI ngày nay có thể "đọc" tài liệu của bạn và trả lời đúng trọng tâm. Nếu muốn đi tiếp, đọc [RAG là gì](/blog/rag-la-gi-cho-nguoi-moi/) để thấy vector database được dùng trong thực tế như thế nào.

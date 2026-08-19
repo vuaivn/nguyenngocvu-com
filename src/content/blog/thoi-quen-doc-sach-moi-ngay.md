@@ -26,7 +26,7 @@ Ai cũng biết đọc sách tốt. Nhưng giá sách nhà tôi từng đầy nh
 
 Não bộ chống lại thay đổi lớn và đột ngột. Khi bạn hứa đọc một tiếng mỗi ngày, ngày bận rộn nào đó bạn sẽ thấy "hôm nay không đủ thời gian" và bỏ luôn. Một khi đã đứt mạch, cảm giác thất bại kéo bạn nghỉ tiếp.
 
-Đây chính là lý do [những thói quen nhỏ tạo thay đổi lớn](/blog/thoi-quen-nho-thay-doi-lon): thứ bền vững không phải là cường độ, mà là sự lặp lại. Một thói quen nhỏ mà làm được mỗi ngày mạnh hơn một mục tiêu lớn mà bỏ dở.
+Đây chính là lý do [những thói quen nhỏ tạo thay đổi lớn](/blog/thoi-quen-nho-thay-doi-lon/): thứ bền vững không phải là cường độ, mà là sự lặp lại. Một thói quen nhỏ mà làm được mỗi ngày mạnh hơn một mục tiêu lớn mà bỏ dở.
 
 ## Ba nguyên tắc để đọc đều đặn
 
@@ -46,7 +46,7 @@ Hãy làm phép tính: 15 phút mỗi ngày, mỗi phút đọc được khoản
 
 ## Cho phép mình bỏ dở
 
-Một sai lầm khiến nhiều người chán đọc: ép mình đọc hết cuốn sách nhàm chán chỉ vì đã bắt đầu. Đây là lúc thực hành [buông bỏ để tự do](/blog/buong-bo-de-tu-do) ngay cả với sách. Sách là để nuôi dưỡng, không phải nghĩa vụ. Cuốn nào không hợp, gấp lại, chọn cuốn khác. Niềm vui đọc mới là thứ giữ thói quen sống lâu.
+Một sai lầm khiến nhiều người chán đọc: ép mình đọc hết cuốn sách nhàm chán chỉ vì đã bắt đầu. Đây là lúc thực hành [buông bỏ để tự do](/blog/buong-bo-de-tu-do/) ngay cả với sách. Sách là để nuôi dưỡng, không phải nghĩa vụ. Cuốn nào không hợp, gấp lại, chọn cuốn khác. Niềm vui đọc mới là thứ giữ thói quen sống lâu.
 
 <div class="takeaways">
 <strong>Những điều cốt lõi</strong>
@@ -66,4 +66,4 @@ Một sai lầm khiến nhiều người chán đọc: ép mình đọc hết cu
 
 **Làm sao để không bỏ cuộc?** Giảm ma sát, gắn vào thói quen cũ, và cho phép mình bỏ dở cuốn không hợp để giữ niềm vui đọc.
 
-Thói quen đọc không sinh ra từ ý chí sắt đá, mà từ những bước nhỏ được lặp lại mỗi ngày. Hãy bắt đầu tối nay với đúng 10 phút. Muốn hiểu sâu cơ chế này, đọc thêm [những thói quen nhỏ tạo thay đổi lớn](/blog/thoi-quen-nho-thay-doi-lon).
+Thói quen đọc không sinh ra từ ý chí sắt đá, mà từ những bước nhỏ được lặp lại mỗi ngày. Hãy bắt đầu tối nay với đúng 10 phút. Muốn hiểu sâu cơ chế này, đọc thêm [những thói quen nhỏ tạo thay đổi lớn](/blog/thoi-quen-nho-thay-doi-lon/).

@@ -81,4 +81,4 @@ AI rất mạnh nhưng không hoàn hảo:
 - Luôn kiểm chứng thông tin và không nhập dữ liệu nhạy cảm.
 </div>
 
-Muốn hiểu sâu hơn về loại AI biết tự hành động thay bạn? Đọc thêm [AI Agent là gì?](/blog/ai-agent-la-gi) để thấy bước tiến tiếp theo của công nghệ này.
+Muốn hiểu sâu hơn về loại AI biết tự hành động thay bạn? Đọc thêm [AI Agent là gì?](/blog/ai-agent-la-gi/) để thấy bước tiến tiếp theo của công nghệ này.

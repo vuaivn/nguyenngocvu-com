@@ -65,4 +65,4 @@ Từ đó về sau, mỗi lần bạn cập nhật nội dung và push lên `mai
 - Ra mắt sớm, cải thiện dần — đừng chờ hoàn hảo.
 </div>
 
-Công nghệ chỉ là phương tiện; quan trọng là bạn có gì để chia sẻ. Nếu muốn dùng AI hỗ trợ quá trình xây web và viết nội dung, hãy đọc [AI Agent là gì?](/blog/ai-agent-la-gi).
+Công nghệ chỉ là phương tiện; quan trọng là bạn có gì để chia sẻ. Nếu muốn dùng AI hỗ trợ quá trình xây web và viết nội dung, hãy đọc [AI Agent là gì?](/blog/ai-agent-la-gi/).

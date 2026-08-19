@@ -59,4 +59,4 @@ Tư duy phát triển và tinh thần Phật học gặp nhau ở một điểm 
 - Ta luôn đang "trở thành" — không cố định, không ngừng chuyển hóa.
 </div>
 
-Bạn của hôm nay chỉ cần tốt hơn bạn của hôm qua một chút. Thế là đủ. Để biến niềm tin thành hành động đều đặn, hãy đọc [Kỷ luật tạo ra tự do](/blog/ky-luat-tao-tu-do).
+Bạn của hôm nay chỉ cần tốt hơn bạn của hôm qua một chút. Thế là đủ. Để biến niềm tin thành hành động đều đặn, hãy đọc [Kỷ luật tạo ra tự do](/blog/ky-luat-tao-tu-do/).

@@ -71,4 +71,4 @@ Với bài toán phức tạp, thêm "hãy suy nghĩ từng bước" thường c
 - Tinh chỉnh dần thay vì bắt đầu lại — prompt là một cuộc đối thoại.
 </div>
 
-Khi đã biết cách giao việc cho AI, bạn có thể tiến xa hơn với những hệ thống tự động. Đọc [AI Agent là gì?](/blog/ai-agent-la-gi) để hiểu cách AI không chỉ trả lời mà còn tự hành động.
+Khi đã biết cách giao việc cho AI, bạn có thể tiến xa hơn với những hệ thống tự động. Đọc [AI Agent là gì?](/blog/ai-agent-la-gi/) để hiểu cách AI không chỉ trả lời mà còn tự hành động.

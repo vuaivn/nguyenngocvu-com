@@ -63,4 +63,4 @@ Khi ta thôi nắm chặt, đôi tay mới mở ra để đón nhận điều m�
 - Hiểu vô thường giúp ta trân trọng hiện tại và bớt khổ khi đổi thay.
 </div>
 
-Tự do thật sự bắt đầu từ khoảnh khắc ta dám buông. Nếu bạn thấy điều này gần gũi, hãy đọc tiếp [Kỷ luật tạo ra tự do](/blog/ky-luat-tao-tu-do) — một góc nhìn bổ sung: tự do bên ngoài cần kỷ luật, tự do bên trong cần buông bỏ.
+Tự do thật sự bắt đầu từ khoảnh khắc ta dám buông. Nếu bạn thấy điều này gần gũi, hãy đọc tiếp [Kỷ luật tạo ra tự do](/blog/ky-luat-tao-tu-do/) — một góc nhìn bổ sung: tự do bên ngoài cần kỷ luật, tự do bên trong cần buông bỏ.

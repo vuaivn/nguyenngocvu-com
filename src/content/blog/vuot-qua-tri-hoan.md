@@ -70,4 +70,4 @@ Nghiên cứu cho thấy người biết tha thứ cho lần trì hoãn trước
 - Tử tế với bản thân làm giảm trì hoãn, tự trách thì ngược lại.
 </div>
 
-Vượt qua trì hoãn là bước đầu của kỷ luật. Đọc thêm [Kỷ luật tạo ra tự do](/blog/ky-luat-tao-tu-do) để hiểu vì sao những thói quen nhỏ mỗi ngày lại mở ra tự do lớn về sau.
+Vượt qua trì hoãn là bước đầu của kỷ luật. Đọc thêm [Kỷ luật tạo ra tự do](/blog/ky-luat-tao-tu-do/) để hiểu vì sao những thói quen nhỏ mỗi ngày lại mở ra tự do lớn về sau.

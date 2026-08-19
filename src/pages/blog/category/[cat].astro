@@ -34,7 +34,7 @@ const jsonld = [
     <div class="cat-pills">
       <a href="/blog">Tất cả</a>
       {categories.map((c) => (
-        <a href={`/blog/category/${c.slug}`} class={c.slug === cat.slug ? 'active' : ''}>{c.name}</a>
+        <a href={`/blog/category/${c.slug}/`} class={c.slug === cat.slug ? 'active' : ''}>{c.name}</a>
       ))}
     </div>
     <ul class="post-list grid-list">

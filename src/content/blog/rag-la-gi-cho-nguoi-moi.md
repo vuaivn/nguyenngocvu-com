@@ -29,7 +29,7 @@ Một mô hình ngôn ngữ như GPT được huấn luyện trên lượng văn
 - **Không biết dữ liệu mới.** Nó chỉ biết đến thời điểm được huấn luyện. Hỏi về việc xảy ra hôm qua, nó chịu.
 - **Không có tài liệu riêng của bạn.** Nó chưa từng đọc hợp đồng, tài liệu nội bộ hay ghi chú cá nhân của bạn.
 
-Khi không biết, mô hình vẫn cố trả lời trôi chảy — và đó là lúc nó bịa. Nếu bạn muốn hiểu sâu hơn về bản chất mô hình, bài [AI Agent là gì](/blog/ai-agent-la-gi) sẽ bổ trợ tốt.
+Khi không biết, mô hình vẫn cố trả lời trôi chảy — và đó là lúc nó bịa. Nếu bạn muốn hiểu sâu hơn về bản chất mô hình, bài [AI Agent là gì](/blog/ai-agent-la-gi/) sẽ bổ trợ tốt.
 
 ## RAG hoạt động như thế nào?
 
@@ -51,7 +51,7 @@ Hãy tưởng tượng RAG như một sinh viên đi thi được **mở sách**
 
 ## Có cần biết code để dùng RAG không?
 
-Không. Rất nhiều công cụ đã đóng gói RAG sẵn: NotebookLM của Google, các nền tảng chatbot doanh nghiệp, hay tính năng tải tài liệu lên trong nhiều ứng dụng AI. Bạn chỉ cần tải tài liệu và đặt câu hỏi. Nếu bạn muốn áp dụng AI vào việc hằng ngày, hãy xem thêm bài [dùng AI trong công việc hằng ngày](/blog/dung-ai-trong-cong-viec-hang-ngay).
+Không. Rất nhiều công cụ đã đóng gói RAG sẵn: NotebookLM của Google, các nền tảng chatbot doanh nghiệp, hay tính năng tải tài liệu lên trong nhiều ứng dụng AI. Bạn chỉ cần tải tài liệu và đặt câu hỏi. Nếu bạn muốn áp dụng AI vào việc hằng ngày, hãy xem thêm bài [dùng AI trong công việc hằng ngày](/blog/dung-ai-trong-cong-viec-hang-ngay/).
 
 <div class="takeaways">
 <strong>Những điều cốt lõi</strong>
@@ -70,4 +70,4 @@ Không. Rất nhiều công cụ đã đóng gói RAG sẵn: NotebookLM của Go
 
 **Người không biết code có dùng được không?** Được — qua các công cụ như NotebookLM hay tính năng chat với tài liệu, bạn chỉ cần tải file lên và hỏi.
 
-RAG là mảnh ghép biến AI từ một "cỗ máy nói hay" thành một trợ lý đáng tin trong công việc. Hiểu nó, bạn sẽ chọn và dùng công cụ AI khôn ngoan hơn nhiều. Đọc tiếp [AI Agent là gì](/blog/ai-agent-la-gi) để thấy bức tranh lớn hơn.
+RAG là mảnh ghép biến AI từ một "cỗ máy nói hay" thành một trợ lý đáng tin trong công việc. Hiểu nó, bạn sẽ chọn và dùng công cụ AI khôn ngoan hơn nhiều. Đọc tiếp [AI Agent là gì](/blog/ai-agent-la-gi/) để thấy bức tranh lớn hơn.

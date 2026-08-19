@@ -78,4 +78,4 @@ Dữ liệu bạn không lưu là dữ liệu không thể rò rỉ. Hãy tập 
 
 ---
 
-Bảo vệ dữ liệu là một phần của việc [dùng AI trong công việc hằng ngày](/blog/dung-ai-trong-cong-viec-hang-ngay) một cách khôn ngoan. Nếu bạn mới bắt đầu tìm hiểu về AI, bài [AI agent là gì](/blog/ai-agent-la-gi) sẽ giúp bạn hiểu rõ hơn cách các công cụ này vận hành và xử lý dữ liệu.
+Bảo vệ dữ liệu là một phần của việc [dùng AI trong công việc hằng ngày](/blog/dung-ai-trong-cong-viec-hang-ngay/) một cách khôn ngoan. Nếu bạn mới bắt đầu tìm hiểu về AI, bài [AI agent là gì](/blog/ai-agent-la-gi/) sẽ giúp bạn hiểu rõ hơn cách các công cụ này vận hành và xử lý dữ liệu.

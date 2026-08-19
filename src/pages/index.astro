@@ -53,7 +53,7 @@ const columns = categories.map((cat) => ({
     <div class="cat-columns">
       {columns.map((col) => (
         <div class="cat-column">
-          <a href={`/blog/category/${col.slug}`} class="cat-column-head">
+          <a href={`/blog/category/${col.slug}/`} class="cat-column-head">
             <h3>{col.name}</h3>
           </a>
           <ul class="post-list">

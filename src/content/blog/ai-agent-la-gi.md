@@ -69,4 +69,4 @@ Công nghệ mạnh đến đâu cũng chỉ là công cụ. Điều quan trọn
 - Giá trị lớn nhất là giải phóng thời gian cho việc thật sự quan trọng.
 </div>
 
-Muốn tận dụng AI hiệu quả, bước đầu tiên là biết cách "giao việc" cho nó. Đọc tiếp [Prompt Engineering cơ bản cho người mới](/blog/prompt-engineering-co-ban) để học cách đặt câu hỏi giúp AI trả lời đúng ý.
+Muốn tận dụng AI hiệu quả, bước đầu tiên là biết cách "giao việc" cho nó. Đọc tiếp [Prompt Engineering cơ bản cho người mới](/blog/prompt-engineering-co-ban/) để học cách đặt câu hỏi giúp AI trả lời đúng ý.

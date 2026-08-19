@@ -54,12 +54,12 @@ export const pillars = [
     icon: '✍️',
     title: 'Viết blog Phật pháp',
     desc: 'Ghi lại trải nghiệm học và hành Phật, đưa sự bình an vào từng ngày.',
-    link: '/blog/category/phat-phap',
+    link: '/blog/category/phat-phap/',
   },
   {
     icon: '🛠️',
     title: 'Xây website & app',
     desc: 'Tạo sản phẩm số giúp người dùng an lạc, giàu có và hạnh phúc hơn.',
-    link: '/blog/category/ung-dung',
+    link: '/blog/category/ung-dung/',
   },
 ];

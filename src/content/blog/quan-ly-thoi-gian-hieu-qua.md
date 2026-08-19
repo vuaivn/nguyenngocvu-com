@@ -56,4 +56,4 @@ Nghỉ ngơi không phải lãng phí thời gian — nó là cách bộ não n�
 - Nghỉ ngơi là một phần của hiệu quả, không phải sự lãng phí.
 </div>
 
-Quản lý thời gian tốt cần nền tảng là kỷ luật. Đọc thêm [Kỷ luật tạo ra tự do](/blog/ky-luat-tao-tu-do) để xây dựng thói quen bền vững đằng sau mọi hệ thống năng suất.
+Quản lý thời gian tốt cần nền tảng là kỷ luật. Đọc thêm [Kỷ luật tạo ra tự do](/blog/ky-luat-tao-tu-do/) để xây dựng thói quen bền vững đằng sau mọi hệ thống năng suất.

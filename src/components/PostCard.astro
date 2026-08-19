@@ -12,7 +12,7 @@ const mins = readingTime(post.body);
 ---
 <li class="post-item">
   {showImage && (
-    <a href={`/blog/${post.slug}`} aria-label={post.data.title}>
+    <a href={`/blog/${post.slug}/`} aria-label={post.data.title}>
       <img class="post-thumb" src={img} alt={alt} loading="lazy" width="1200" height="630" />
     </a>
   )}
@@ -21,6 +21,6 @@ const mins = readingTime(post.body);
     <span>{formatDate(post.data.pubDate)}</span>
     <span>· {mins} phút đọc</span>
   </div>
-  <h3><a href={`/blog/${post.slug}`}>{post.data.title}</a></h3>
+  <h3><a href={`/blog/${post.slug}/`}>{post.data.title}</a></h3>
   <p>{post.data.description}</p>
 </li>

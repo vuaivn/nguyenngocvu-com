@@ -14,7 +14,7 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
     <div class="cat-pills">
       <a href="/blog" class="active">Tất cả</a>
       {categories.map((c) => (
-        <a href={`/blog/category/${c.slug}`}>{c.name}</a>
+        <a href={`/blog/category/${c.slug}/`}>{c.name}</a>
       ))}
     </div>
     <ul class="post-list grid-list">

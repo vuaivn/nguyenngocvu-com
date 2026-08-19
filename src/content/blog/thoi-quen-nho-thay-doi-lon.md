@@ -79,4 +79,4 @@ Tốt hơn 1% mỗi ngày nghe chẳng đáng kể. Nhưng 1% mỗi ngày trong 
 
 ---
 
-Thói quen nhỏ chính là nền tảng của [kỷ luật tạo tự do](/blog/ky-luat-tao-tu-do). Khi bạn kết hợp chúng với cách [quản lý thời gian hiệu quả](/blog/quan-ly-thoi-gian-hieu-qua), bạn sẽ xây được một cuộc sống vận hành trơn tru mà không cần vắt kiệt ý chí mỗi ngày.
+Thói quen nhỏ chính là nền tảng của [kỷ luật tạo tự do](/blog/ky-luat-tao-tu-do/). Khi bạn kết hợp chúng với cách [quản lý thời gian hiệu quả](/blog/quan-ly-thoi-gian-hieu-qua/), bạn sẽ xây được một cuộc sống vận hành trơn tru mà không cần vắt kiệt ý chí mỗi ngày.

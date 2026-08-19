@@ -63,4 +63,4 @@ Bạn không cần thêm giờ vào ngày của mình. Chỉ cần **làm nhữn
 - Tâm lang thang là bình thường; giá trị nằm ở mỗi lần bạn quay về.
 </div>
 
-Mỗi ngày, hãy thử dành vài phút chỉ để **có mặt**. Bạn sẽ ngạc nhiên vì sự bình an đến từ những điều nhỏ bé nhất. Và nếu muốn đi xa hơn, hãy đọc thêm bài [Ứng dụng Phật pháp giữa đời thường bận rộn](/blog/phat-phap-giua-doi-thuong) để biến cả ngày làm việc thành một pháp môn tu tập.
+Mỗi ngày, hãy thử dành vài phút chỉ để **có mặt**. Bạn sẽ ngạc nhiên vì sự bình an đến từ những điều nhỏ bé nhất. Và nếu muốn đi xa hơn, hãy đọc thêm bài [Ứng dụng Phật pháp giữa đời thường bận rộn](/blog/phat-phap-giua-doi-thuong/) để biến cả ngày làm việc thành một pháp môn tu tập.
