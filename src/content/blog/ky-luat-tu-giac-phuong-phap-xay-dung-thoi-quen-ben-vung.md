@@ -4,7 +4,7 @@ description: "Khám phá phương pháp khoa học để xây dựng kỷ luật
 pubDate: 2026-09-01
 category: phat-trien-ban-than
 tags: ["ky-luat-tu-giac", "thoi-quen", "phat-trien-ban-than", "tam-ly-hoc-hanh-vi"]
-heroImage: /images/posts/hero-ky-luat-tu-giac-phuong-phap-xay-dung-thoi-quen-ben-vung.webp
+heroImage: /images/posts/hero-ky-luat-tu-giac-phuong-phap-xay-dung-thoi-quen-ben-vung-v2.webp
 heroAlt: "Một người ngồi làm việc tập trung trong môi trường sáng sủa, thể hiện kỷ luật tự giác"
 faq:
   - q: "Kỷ luật tự giác khác gì với ý chí?"

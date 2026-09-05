@@ -4,7 +4,7 @@ description: "Khám phá Bát Chánh Đạo - tám bước tu tập căn bản c
 pubDate: 2026-09-02
 category: "phat-phap"
 tags: ["bát chánh đạo", "tu tập", "phật giáo ứng dụng", "giải thoát", "thiền định", "giới luật", "trí tuệ"]
-heroImage: "/images/posts/hero-bat-chanh-dao-phat-giao-thuc-hanh-doi-thuong.webp"
+heroImage: "/images/posts/hero-bat-chanh-dao-phat-giao-thuc-hanh-doi-thuong-v2.webp"
 heroAlt: "Con đường xoắn ốc tám tầng dẫn lên đỉnh núi trong ánh bình minh, tượng trưng cho tám yếu tố của Bát Chánh Đạo"
 faq:
   - q: "Bát Chánh Đạo có thể thực hành được trong đời sống bận rộn không?"

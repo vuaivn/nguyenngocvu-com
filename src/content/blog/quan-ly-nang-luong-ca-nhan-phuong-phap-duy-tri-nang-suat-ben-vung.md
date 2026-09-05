@@ -4,7 +4,7 @@ description: "Khám phá phương pháp quản lý năng lượng thay vì chỉ
 pubDate: 2026-09-04
 category: phat-trien-ban-than
 tags: [năng suất, quản lý năng lượng, phát triển bản thân, làm việc hiệu quả, sức khỏe tinh thần]
-heroImage: /images/posts/hero-quan-ly-nang-luong-ca-nhan-phuong-phap-duy-tri-nang-suat-ben-vung.webp
+heroImage: /images/posts/hero-quan-ly-nang-luong-ca-nhan-phuong-phap-duy-tri-nang-suat-ben-vung-v2.webp
 heroAlt: "Minh họa quản lý năng lượng cá nhân với biểu đồ nhịp sinh học và khu vực năng lượng cao, tông màu xanh dương tươi sáng"
 faq:
   - q: Quản lý năng lượng khác gì với quản lý thời gian?

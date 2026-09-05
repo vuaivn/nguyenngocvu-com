@@ -4,7 +4,7 @@ description: "Khám phá năm giới Phật giáo qua lăng kính hiện đại 
 pubDate: 2026-08-31
 category: phat-phap
 tags: [nam-gioi, dao-duc-phat-giao, thuc-hanh-phat-phap, gioi-luat, song-chanh-niem]
-heroImage: /images/posts/hero-nam-gioi-phat-giao-y-nghia-thuc-hanh.webp
+heroImage: /images/posts/hero-nam-gioi-phat-giao-y-nghia-thuc-hanh-v2.webp
 heroAlt: "Con đường tu tập với năm giới như nền tảng đạo đức trong Phật giáo"
 faq:
   - q: "Năm giới trong Phật giáo là gì?"

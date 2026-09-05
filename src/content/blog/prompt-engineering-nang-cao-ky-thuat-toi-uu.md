@@ -9,7 +9,7 @@ tags:
   - LLM
   - GPT
   - optimization
-heroImage: /images/posts/hero-prompt-engineering-nang-cao-ky-thuat-toi-uu.webp
+heroImage: /images/posts/hero-prompt-engineering-nang-cao-ky-thuat-toi-uu-v2.webp
 heroAlt: "Minh họa kỹ thuật prompt engineering với sơ đồ chuỗi suy luận và các phương pháp tối ưu giao tiếp AI"
 draft: false
 faq:

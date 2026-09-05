@@ -4,7 +4,7 @@ description: "Khám phá nguyên nhân sâu xa của sự trì hoãn và phươn
 pubDate: 2026-09-02
 category: phat-trien-ban-than
 tags: [trì hoãn, quản lý thời gian, năng suất, tự kỷ luật, thói quen, tâm lý học]
-heroImage: /images/posts/hero-vuot-qua-su-tri-hoan-nguyen-nhan-giai-phap.webp
+heroImage: /images/posts/hero-vuot-qua-su-tri-hoan-nguyen-nhan-giai-phap-v2.webp
 heroAlt: "Người đang ngồi làm việc tập trung, vượt qua sự trì hoãn"
 faq:
   - q: "Tại sao tôi cứ trì hoãn dù biết nó có hại?"

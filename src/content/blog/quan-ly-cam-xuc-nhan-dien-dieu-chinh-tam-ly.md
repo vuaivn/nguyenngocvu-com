@@ -4,7 +4,7 @@ description: "Phương pháp khoa học để nhận diện, hiểu và điều 
 pubDate: 2026-09-03
 category: "phat-trien-ban-than"
 tags: ["quản lý cảm xúc", "trí tuệ cảm xúc", "sức khỏe tinh thần", "tự nhận thức", "phát triển bản thân"]
-heroImage: "/images/posts/hero-quan-ly-cam-xuc-nhan-dien-dieu-chinh-tam-ly.webp"
+heroImage: "/images/posts/hero-quan-ly-cam-xuc-nhan-dien-dieu-chinh-tam-ly-v2.webp"
 heroAlt: "Hình ảnh minh họa quản lý cảm xúc - từ nhận diện đến điều chỉnh trạng thái tâm lý"
 faq:
   - q: "Làm sao biết mình đang cảm thấy gì?"

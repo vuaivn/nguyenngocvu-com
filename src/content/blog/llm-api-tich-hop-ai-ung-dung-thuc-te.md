@@ -4,7 +4,7 @@ description: "Hướng dẫn chi tiết cách tích hợp LLM API vào ứng d�
 pubDate: 2026-09-05
 category: cong-nghe
 tags: [AI, LLM, API, Integration, Development, Streaming, Cost Optimization]
-heroImage: /images/posts/hero-llm-api-tich-hop-ai-ung-dung-thuc-te.webp
+heroImage: /images/posts/hero-llm-api-tich-hop-ai-ung-dung-thuc-te-v2.webp
 heroAlt: "Sơ đồ kiến trúc tích hợp LLM API vào ứng dụng web với các thành phần backend, streaming và caching"
 faq:
   - q: "Nên chọn OpenAI hay Claude API cho dự án mới?"

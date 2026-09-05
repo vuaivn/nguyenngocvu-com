@@ -4,7 +4,7 @@ description: "Hướng dẫn thực hành rèn luyện sự tập trung như m�
 pubDate: 2026-08-30
 category: phat-trien-ban-than
 tags: [tập trung, mindfulness, chánh niệm, kỷ luật, phát triển bản thân, rèn luyện tâm trí]
-heroImage: /images/posts/hero-tu-luyen-su-tap-trung-thoi-dai-phan-tam.webp
+heroImage: /images/posts/hero-tu-luyen-su-tap-trung-thoi-dai-phan-tam-v2.webp
 heroAlt: "Hình ảnh biểu thị quá trình tu luyện tập trung như rèn luyện cơ bắp tinh thần"
 faq:
   - q: "Tập trung có phải là tài năng bẩm sinh hay có thể rèn luyện?"

@@ -4,7 +4,7 @@ description: "RAG giúp AI chatbot trả lời chính xác từ dữ liệu riê
 pubDate: 2026-08-31T00:00:00.000Z
 category: cong-nghe
 tags: [RAG, AI, chatbot, vector-database, LLM, machine-learning]
-heroImage: /images/posts/hero-rag-retrieval-augmented-generation-ky-thuat-nen-tang-ai-chatbot.webp
+heroImage: /images/posts/hero-rag-retrieval-augmented-generation-ky-thuat-nen-tang-ai-chatbot-v2.webp
 heroAlt: "Sơ đồ minh họa quy trình RAG với vector database và LLM xử lý câu hỏi người dùng"
 faq:
   - q: "RAG là gì?"

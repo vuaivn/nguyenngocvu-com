@@ -4,7 +4,7 @@ description: "Khám phá nghệ thuật đặt câu hỏi để tư duy sâu hơ
 pubDate: 2026-08-31
 category: "phat-trien-ban-than"
 tags: ["tu-duy-phan-bien", "ky-nang-mem", "phat-trien-ban-than", "tu-duy-sau"]
-heroImage: "/images/posts/hero-tu-duong-tu-duy-phan-bien-phuong-phap-dat-cau-hoi.webp"
+heroImage: "/images/posts/hero-tu-duong-tu-duy-phan-bien-phuong-phap-dat-cau-hoi-v2.webp"
 heroAlt: "Hình ảnh minh họa tư duy phản biện với các câu hỏi và sơ đồ tư duy"
 faq:
   - q: "Tư duy phản biện khác gì với việc chỉ trích?"

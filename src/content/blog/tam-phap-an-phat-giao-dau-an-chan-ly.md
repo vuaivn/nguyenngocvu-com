@@ -4,7 +4,7 @@ description: "Tìm hiểu Tam Pháp Ấn - ba đặc tính căn bản của vạ
 pubDate: 2026-09-04
 category: "phat-phap"
 tags: ["tam-phap-an", "vo-thuong", "vo-nga", "niet-ban", "phat-phap-can-ban"]
-heroImage: "/images/posts/hero-tam-phap-an-phat-giao-dau-an-chan-ly.webp"
+heroImage: "/images/posts/hero-tam-phap-an-phat-giao-dau-an-chan-ly-v2.webp"
 heroAlt: "Ba con dấu chồng lên nhau tượng trưng cho Tam Pháp Ấn - ba chân lý cốt lõi của Phật giáo"
 faq:
   - q: "Tam Pháp Ấn khác gì với Tứ Pháp Ấn?"

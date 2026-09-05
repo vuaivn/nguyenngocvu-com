@@ -4,7 +4,7 @@ description: "Khám phá cách xây dựng workflow tự động với LLM Agent
 pubDate: 2026-09-01
 category: cong-nghe
 tags: ["LLM", "AI Agent", "Workflow", "Automation", "AI"]
-heroImage: /images/posts/hero-llm-agent-workflow-tu-dong-hoa-cong-viec.webp
+heroImage: /images/posts/hero-llm-agent-workflow-tu-dong-hoa-cong-viec-v2.webp
 heroAlt: "Sơ đồ minh họa luồng công việc tự động của LLM Agent với các node kết nối"
 faq:
   - q: "LLM Agent Workflow khác gì automation truyền thống?"

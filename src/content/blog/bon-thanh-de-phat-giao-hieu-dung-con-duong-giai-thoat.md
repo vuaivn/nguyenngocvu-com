@@ -4,7 +4,7 @@ description: "Bốn Thánh Đế - nền tảng giáo lý Phật giáo: Khổ đ
 pubDate: 2026-09-01
 category: phat-phap
 tags: [bon-thanh-de, phat-hoc, giai-thoat, bat-chanh-dao, tam-hoc]
-heroImage: /images/posts/hero-bon-thanh-de-phat-giao-hieu-dung-con-duong-giai-thoat.webp
+heroImage: /images/posts/hero-bon-thanh-de-phat-giao-hieu-dung-con-duong-giai-thoat-v2.webp
 heroAlt: "Biểu đồ minh họa Bốn Thánh Đế - vòng tròn nhân quả trong Phật giáo"
 faq:
   - q: "Bốn Thánh Đế là gì?"

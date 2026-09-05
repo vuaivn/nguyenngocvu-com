@@ -4,7 +4,7 @@ description: "Tám con đường chánh giác trong Phật giáo - từ chánh k
 pubDate: 2026-09-03
 category: phat-phap
 tags: [phật giáo, bát chánh đạo, thực hành, tâm linh, giác ngộ]
-heroImage: /images/posts/hero-bat-chanh-dao-phat-giao-thuc-hanh-hien-dai.webp
+heroImage: /images/posts/hero-bat-chanh-dao-phat-giao-thuc-hanh-hien-dai-v2.webp
 heroAlt: "Biểu tượng bánh xe pháp với tám nan hoa đại diện cho Bát Chánh Đạo trong Phật giáo"
 faq:
   - q: "Bát Chánh Đạo là gì?"

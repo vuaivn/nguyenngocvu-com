@@ -4,7 +4,7 @@ description: "Hướng dẫn thiết kế và triển khai hệ thống Agent AI
 pubDate: 2026-09-04
 category: cong-nghe
 tags: ["AI Agent", "Automation", "LLM", "Agent System", "AI Architecture"]
-heroImage: /images/posts/hero-agent-ai-tu-dong-thiet-ke-trien-khai.webp
+heroImage: /images/posts/hero-agent-ai-tu-dong-thiet-ke-trien-khai-v2.webp
 heroAlt: "Sơ đồ kiến trúc hệ thống Agent AI tự động với các thành phần kết nối"
 faq:
   - q: "Agent AI khác gì chatbot thông thường?"
