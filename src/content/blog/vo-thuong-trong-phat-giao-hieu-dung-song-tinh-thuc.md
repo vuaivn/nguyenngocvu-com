@@ -4,7 +4,7 @@ description: "Khám phá vô thường qua lăng kính Phật học - từ lý t
 pubDate: 2026-08-30
 category: phat-phap
 tags: [vo-thuong, phat-hoc, chanh-niem, giac-ngo, tam-phap-an]
-heroImage: /images/posts/hero-vo-thuong-trong-phat-giao-hieu-dung-song-tinh-thuc.webp
+heroImage: /images/posts/hero-vo-thuong-trong-phat-giao-hieu-dung-song-tinh-thuc-v2.webp
 heroAlt: "Dòng chảy biến đổi liên tục tượng trưng cho vô thường trong Phật giáo"
 faq:
   - q: "Vô thường trong Phật giáo có nghĩa là gì?"

@@ -4,7 +4,7 @@ description: "Khám phá Multimodal AI - công nghệ cho phép AI hiểu và x�
 pubDate: 2026-09-02
 category: cong-nghe
 tags: ["AI", "Multimodal AI", "Machine Learning", "Computer Vision", "NLP"]
-heroImage: /images/posts/hero-multimodal-ai-ket-hop-van-ban-hinh-anh-am-thanh.webp
+heroImage: /images/posts/hero-multimodal-ai-ket-hop-van-ban-hinh-anh-am-thanh-v2.webp
 heroAlt: "Sơ đồ biểu diễn kiến trúc Multimodal AI với các luồng dữ liệu văn bản, hình ảnh và âm thanh hội tụ"
 faq:
   - q: "Multimodal AI khác gì so với AI truyền thống?"
