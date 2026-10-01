@@ -18,11 +18,11 @@ faq:
 draft: true
 ---
 
-**Ngũ Lực (Pañca Bala) là năm sức mạnh tâm linh căn bản trong Phật giáo: Tín lực, Tấn lực, Niệm lực, Định lực, Tuệ lực. Khác với Ngũ Căn (năm gốc rễ còn non yếu), Ngũ Lực là giai đoạn năm căn ấy đã phát triển đủ mạnh để vượt qua mọi chướng ngại — vượt nghi hoặc, lười biếng, phóng tâm, tán loạn, vô minh. Đây là năng lượng nội tại đưa người tu từ nền tảng đến giác ngộ.**
+**Ngũ Lực (Pañca Bala) — Tín, Tấn, Niệm, Định, Tuệ — là năm sức mạnh tâm linh căn bản giúp vượt qua mọi chướng ngại tu tập: nghi hoặc, lười biếng, phóng tâm, tán loạn, vô minh. Khác với Ngũ Căn còn non yếu, Ngũ Lực là giai đoạn năm căn ấy đã đủ vững để chống trả nghịch cảnh. Đây là năng lượng nội tại đưa người tu từ nền tảng đến giác ngộ.**
 
 ## Ngũ Lực là gì?
 
-Ngũ Lực xuất hiện trong kinh điển Phật giáo nguyên thủy (Pali: *Pañca Balāni*, Sanskrit: *Pañca Balāni*) như một trong [Tam Thập Thất Đạo Phẩm](https://vi.wikipedia.org/wiki/Tam_th%E1%BA%ADp_th%E1%BA%A5t_%C4%91%E1%BA%A1o_ph%E1%BA%A9m) (37 phẩm trợ đạo). Từ "Bala" (巴利語) có nghĩa là **lực, sức mạnh, quyền năng** — không phải sức mạnh vật lý, mà là **năng lực tâm linh** giúp con người vượt qua ma chướng nội tại.
+Ngũ Lực xuất hiện trong kinh điển Phật giáo nguyên thủy (Pali: *Pañca Balāni*) như một trong [Tam Thập Thất Đạo Phẩm](https://vi.wikipedia.org/wiki/Tam_th%E1%BA%ADp_th%E1%BA%A5t_%C4%91%E1%BA%A1o_ph%E1%BA%A9m) — 37 phẩm trợ đạo. "Bala" nghĩa là lực, sức mạnh. Không phải sức vật lý, mà là **năng lực tâm linh** giúp vượt qua ma chướng nội tại.
 
 Năm lực này gồm:
 
